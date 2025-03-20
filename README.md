@@ -234,11 +234,6 @@ The system features a clean, user-friendly Gradio web interface that:
 4. **Medical Disclaimers** - Clear notices for medical information
 5. **Example Questions** - Pre-populated examples to demonstrate capabilities
 
-The interface is designed to be:
-- **Accessible** - Clean layout with proper contrast and readability
-- **Informative** - Provides metadata about response sources and confidence
-- **Cautious** - Clearly labels low-confidence responses with warning indicators
-- **Educational** - Includes example questions to guide users
 
 ![Gradio Interface Screenshot](app_screenshot.png) <!-- Optional: Add a screenshot if available -->
 
