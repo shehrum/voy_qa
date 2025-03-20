@@ -4,7 +4,6 @@
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Python](https://img.shields.io/badge/Python-3.11-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-green)
 [![OpenAI](https://img.shields.io/badge/OpenAI-API-lightgrey)](https://openai.com/)
 
 </div>
@@ -274,18 +273,6 @@ Evaluation results are saved to the `evaluation/` directory, including:
 - Add conversational context for follow-up questions
 - Implement answer generation with step-by-step reasoning
 
-## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👥 Contributors
-
-- Your Name - *Initial work* - [YourGitHub](https://github.com/yourusername)
-
-## 🙏 Acknowledgments
-
-- OpenAI for providing the GPT models
-- Chroma for the vector database
-- Gradio for the web interface
 
 
