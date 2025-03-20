@@ -22,7 +22,7 @@ voy_qa/
 
 1. Create a virtual environment:
 ```bash
-conda create -n voy_qa python=3.9
+conda create -n voy_qa python=3.11.11
 conda activate voy_qa
 ```
 
