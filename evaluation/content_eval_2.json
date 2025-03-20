@@ -1,0 +1,35 @@
+{
+  "criteria": {
+    "Relevance": {
+      "score": 1,
+      "explanation": "The generated answer does not address the question about the treatment titration pathway at all, instead suggesting to contact support for information."
+    },
+    "Accuracy": {
+      "score": 1,
+      "explanation": "The generated answer provides no accurate information regarding the treatment titration pathway, failing to meet the accuracy criterion."
+    },
+    "Completeness": {
+      "score": 1,
+      "explanation": "The answer fails to provide any of the necessary information about the treatment titration pathway, making it incomplete."
+    },
+    "Clarity": {
+      "score": 4,
+      "explanation": "Despite not answering the question, the generated response is clear and easy to understand in its direction to contact support."
+    },
+    "Conciseness": {
+      "score": 5,
+      "explanation": "The answer is concise, directly suggesting to contact support without unnecessary information."
+    },
+    "Citation": {
+      "score": 1,
+      "explanation": "The answer does not cite any sources or provide information from the reference answer, failing the citation criterion."
+    }
+  },
+  "overall": {
+    "score": 1,
+    "explanation": "Overall, the generated answer fails to meet the criteria for a good response to the question about the treatment titration pathway. It does not provide relevant, accurate, or complete information on the topic. While the response is clear and concise, these qualities do not compensate for its lack of content and citation, resulting in the lowest possible overall score."
+  },
+  "question": "What is the treatment titration pathway?",
+  "generated_answer": "I apologize, but I couldn't find relevant information in Voy's documentation to answer your question accurately. Please contact Voy's support team directly for more information.",
+  "reference_answer": "We understand that the typical titration path might not be for everyone. So you're more than welcome to remain on the same dose or reduce your dose throughout your treatment.\u00a0If your treatment plan is for Mounjaro or Wegovy, typically, your dose will increase every 28 days with your order renewal. Here's a breakdown of the titration path according to your treatment plan for Mounjaro and Wegovy:\n\u00a0\nWegovy\n\n0.25mg - automatically titrate up to the next dose\n0.5mg - automatically titrate up to the next dose\n1mg - you'll automatically stay on this dose unless you tell us you'd like to go up\n1.7mg - optional titration\n2.4mg - optional titration\n\nMounjaro\u00a0\n\n2.5mg - automatically titrate up to the next dose\n5mg - automatically titrate up to the next dose\n7.5mg - automatically titrate up to the next dose\n10mg - you'll automatically stay on this dose unless you tell us you'd like to go up\n12.5mg - optional titration\n15mg\u00a0- automatically titrate up to the next dose\n\n\u00a0\nHow do I change my dose?\u00a0\nYou can adjust your dosage directly from your account. Based on your current dose, you'll have the option to increase, maintain, or lower the strength.If you still need help, please speak to our Customer Support Team either via livechat from your account, or by emailing help@joinvoy.com and our team will be there to support you. So that we can update your plan before your next order, please let us know at least 3 days before your next order if you'd like to make any changes. You can check your next order date and current strength in your account under Manage Plans and Orders.\u00a0We're working hard to give you more flexibility and autonomy in your treatment plan, if you have any feedback or suggestions, we'd love to hear them, just speak to our team.\u00a0"
+}

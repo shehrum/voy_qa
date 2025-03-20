@@ -1,0 +1,35 @@
+{
+  "criteria": {
+    "Relevance": {
+      "score": 5,
+      "explanation": "The answer is highly relevant to the question, providing specific guidance for missed doses of Mounjaro or Wegovy treatment."
+    },
+    "Accuracy": {
+      "score": 4,
+      "explanation": "The information appears accurate and aligns with general practices for managing missed doses of medication. However, without access to Voy's official documentation, the exact accuracy regarding the source cannot be fully verified."
+    },
+    "Completeness": {
+      "score": 5,
+      "explanation": "The answer provides a comprehensive guide for handling missed doses, including scenarios for missing one dose, more than two doses, and changing the injection day. It also includes additional important information about medication usage and disposal."
+    },
+    "Clarity": {
+      "score": 5,
+      "explanation": "The answer is written in a clear and understandable manner, making it easy for readers to follow the guidance provided."
+    },
+    "Conciseness": {
+      "score": 4,
+      "explanation": "The answer is concise, delivering necessary information without unnecessary detail. However, it includes some additional information that, while useful, may not be strictly necessary for the question asked."
+    },
+    "Citation": {
+      "score": 2,
+      "explanation": "The answer mentions 'Voy's official documentation' but does not provide specific citations or links to the source material, making it difficult to verify the information directly."
+    }
+  },
+  "overall": {
+    "score": 4,
+    "explanation": "The generated answer is relevant, accurate, complete, clear, and relatively concise, making it a valuable resource for individuals seeking guidance on missed doses of Mounjaro or Wegovy. However, the lack of specific citations to verify the information slightly diminishes its reliability. Overall, it is a well-constructed response that effectively addresses the question with minor areas for improvement in citation."
+  },
+  "question": "General Guidance for Missing Doses?",
+  "generated_answer": "If you've missed a dose of your Mounjaro or Wegovy treatment, here's what you should do according to Voy's official guidance:\n\n- **Missed 1 Dose:** You have two options. You can take the missed dose as soon as you remember and then continue your injections on this new day moving forward. Alternatively, you can wait until your next scheduled dose and administer it then.\n\n- **Missed More Than 2 Doses:** It's important to contact Voy's clinical team for advice. A dose adjustment to a lower strength may be necessary for your safety.\n\n**Want to Change Your Injection Day?** Ensure at least 4 days have passed since your last injection before administering the next dose. This may require extending the gap between doses to more than the usual 7 days to adjust your schedule.\n\n**Additional Information:**\n\n- Once you've started using a pen, it must be used within 30 days of the first dose.\n- Do not use the medicine if the solution is not clear and colourless or almost colourless (slightly yellow).\n- Dispose of used needles and finished pens in the sharps bin provided. Do not dispose of any medicines via wastewater or household waste. Consult your pharmacist if you're unable to use your sharps bin.\n\nFor personalized guidance or if you have any concerns, you're encouraged to contact Voy's clinical team directly through your account or book a call with them.\n\nPlease note, these instructions are supplementary to the information provided in the patient information leaflet included with your medication. Always refer to the patient information leaflet for comprehensive guidance.\n\n**Medical Disclaimer:** This guidance is based on Voy's official documentation and is intended for informational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your healthcare provider with any questions you may have regarding a medical condition or treatment.",
+  "reference_answer": "If you\u2019ve missed a dose of your Mounjaro or Wegovy treatment, don\u2019t worry. We've put together this helpful guide to help you understand what to do next. Following these steps ensures that you stay on track with your treatment and can resume as safely and effectively as possible.\n\n\nMissed 1 Dose:\n\nYou can take it as soon as you remember and continue your injections on this day moving forward. Alternatively, you can wait until your next scheduled dose and administer it then.\n\n\n\nMissed More Than 2 Doses:\n\nPlease contact our clinical team, as a dose adjustment to a lower stength may be needed to ensure your safety.\n\n\n\n\n\nWant to Change Your Injection Day?\n\nMake sure at least 4 days have passed since your last injection before giving the next dose. This might mean extending the gap between doses longer than the usual 7 days to shift your schedule.\n\n\n\n\nFor personalized guidance or if you have any concerns, you can contact our clinical team directly through your account or book a call with them here: Book a Call with Clinicians."
+}

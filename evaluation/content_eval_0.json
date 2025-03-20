@@ -1,0 +1,35 @@
+{
+  "criteria": {
+    "Relevance": {
+      "score": 5,
+      "explanation": "The answer directly addresses the question about changing a coach, providing clear instructions on how to proceed with the change."
+    },
+    "Accuracy": {
+      "score": 5,
+      "explanation": "The information provided matches the reference answer, confirming the process involves contacting the Support Team for assistance."
+    },
+    "Completeness": {
+      "score": 5,
+      "explanation": "The answer goes beyond the reference to offer comprehensive guidance on how to contact support, the options for communication, and additional support mechanisms, ensuring the user has all necessary information."
+    },
+    "Clarity": {
+      "score": 5,
+      "explanation": "The answer is written in a clear and understandable manner, with straightforward instructions on how to change a coach and the support available."
+    },
+    "Conciseness": {
+      "score": 4,
+      "explanation": "While the answer is slightly more detailed than the reference, it remains focused and relevant, providing valuable additional context without unnecessary information."
+    },
+    "Citation": {
+      "score": 3,
+      "explanation": "The answer does not explicitly cite sources but mentions 'Voy's official documentation' for further information, implying where the information can be verified without direct citations."
+    }
+  },
+  "overall": {
+    "score": 4.5,
+    "explanation": "The generated answer excellently addresses the question with relevant, accurate, complete, and clear information. It is slightly less concise than it could be, given the detail beyond the reference answer, but this detail adds value. The main area for improvement is in explicit citation of sources. Overall, the answer effectively informs the user on how to change their coach with Voy, making it highly useful for the intended purpose."
+  },
+  "question": "Can I change my coach?",
+  "generated_answer": "Yes, you can change your coach. If you feel that you need a different coach to support you on your weight loss journey, Voy's Support Team is available to assist with this change. You cannot make this change by yourself directly in the app or website, but by contacting the Support Team via email or starting a chat in the app, they will facilitate the switch for you as soon as possible.\n\nFor any additional support or questions, you're encouraged to reach out to Voy's Support Team. They are committed to helping you and ensuring you have the right guidance and motivation throughout your journey.\n\nIf you're unsure who to contact or if you have not yet chosen a coach, you should start with the Customer Care Team. They will guide you to the appropriate team or help you select a coach through the 'Choose a coach' option on the Support page of your account.\n\nFor further assistance or to communicate with your coach for motivation, support, and guidance, you can use the messages feature on your support page, communicate via WhatsApp (initiated by your coach), or book a face-to-face appointment through the Support page.\n\nRemember, the goal is to ensure you feel supported and motivated throughout your weight loss journey with Voy.\n\nFor more detailed information or to reach out for support, please refer to Voy's official documentation or contact their Support Team directly.",
+  "reference_answer": "We completely understand that finding the right coach is important for your journey. While you\u2019re not able to make this change on your own, our friendly Support Team is here to help! Simply send us an email or start a chat in the App, and we\u2019ll take care of the switch for you as soon as possible.\nIf there\u2019s anything else we can do to support you, just let us know\u2014we\u2019re always happy to help!"
+}

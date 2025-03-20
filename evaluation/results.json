@@ -1,0 +1,670 @@
+[
+  {
+    "question": "Can I change my coach?",
+    "category": "in_domain",
+    "expected_confidence": "high",
+    "actual_confidence": "high",
+    "confidence_match": true,
+    "expected_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/35735690703764-Can-I-change-my-coach"
+    ],
+    "actual_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/35735690703764-Can-I-change-my-coach",
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20198390141844-How-do-I-contact-Voy"
+    ],
+    "urls_match": true,
+    "reference_answer": "We completely understand that finding the right coach is important for your journey. While you\u2019re not able to make this change on your own, our friendly Support Team is here to help! Simply send us an email or start a chat in the App, and we\u2019ll take care of the switch for you as soon as possible.\nIf there\u2019s anything else we can do to support you, just let us know\u2014we\u2019re always happy to help!",
+    "actual_answer": "Yes, you can change your coach. If you feel that you need a different coach to support you on your weight loss journey, Voy's Support Team is available to assist with this change. You cannot make this change by yourself directly in the app or website, but by contacting the Support Team via email or starting a chat in the app, they will facilitate the switch for you as soon as possible.\n\nFor any additional support or questions, you're encouraged to reach out to Voy's Support Team. They are committed to helping you and ensuring you have the right guidance and motivation throughout your journey.\n\nIf you're unsure who to contact or if you have not yet chosen a coach, you should start with the Customer Care Team. They will guide you to the appropriate team or help you select a coach through the 'Choose a coach' option on the Support page of your account.\n\nFor further assistance or to communicate with your coach for motivation, support, and guidance, you can use the messages feature on your support page, communicate via WhatsApp (initiated by your coach), or book a face-to-face appointment through the Support page.\n\nRemember, the goal is to ensure you feel supported and motivated throughout your weight loss journey with Voy.\n\nFor more detailed information or to reach out for support, please refer to Voy's official documentation or contact their Support Team directly.",
+    "response_time": 13.260848045349121
+  },
+  {
+    "question": "General Guidance for Missing Doses?",
+    "category": "in_domain",
+    "expected_confidence": "high",
+    "actual_confidence": "high",
+    "confidence_match": true,
+    "expected_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/35168676837780-General-Guidance-for-Missing-Doses"
+    ],
+    "actual_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/35168676837780-General-Guidance-for-Missing-Doses",
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/35168676837780-General-Guidance-for-Missing-Doses",
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/32242827773716-Information-about-Mounjaro"
+    ],
+    "urls_match": true,
+    "reference_answer": "If you\u2019ve missed a dose of your Mounjaro or Wegovy treatment, don\u2019t worry. We've put together this helpful guide to help you understand what to do next. Following these steps ensures that you stay on track with your treatment and can resume as safely and effectively as possible.\n\n\nMissed 1 Dose:\n\nYou can take it as soon as you remember and continue your injections on this day moving forward. Alternatively, you can wait until your next scheduled dose and administer it then.\n\n\n\nMissed More Than 2 Doses:\n\nPlease contact our clinical team, as a dose adjustment to a lower stength may be needed to ensure your safety.\n\n\n\n\n\nWant to Change Your Injection Day?\n\nMake sure at least 4 days have passed since your last injection before giving the next dose. This might mean extending the gap between doses longer than the usual 7 days to shift your schedule.\n\n\n\n\nFor personalized guidance or if you have any concerns, you can contact our clinical team directly through your account or book a call with them here: Book a Call with Clinicians.",
+    "actual_answer": "If you've missed a dose of your Mounjaro or Wegovy treatment, here's what you should do according to Voy's official guidance:\n\n- **Missed 1 Dose:** You have two options. You can take the missed dose as soon as you remember and then continue your injections on this new day moving forward. Alternatively, you can wait until your next scheduled dose and administer it then.\n\n- **Missed More Than 2 Doses:** It's important to contact Voy's clinical team for advice. A dose adjustment to a lower strength may be necessary for your safety.\n\n**Want to Change Your Injection Day?** Ensure at least 4 days have passed since your last injection before administering the next dose. This may require extending the gap between doses to more than the usual 7 days to adjust your schedule.\n\n**Additional Information:**\n\n- Once you've started using a pen, it must be used within 30 days of the first dose.\n- Do not use the medicine if the solution is not clear and colourless or almost colourless (slightly yellow).\n- Dispose of used needles and finished pens in the sharps bin provided. Do not dispose of any medicines via wastewater or household waste. Consult your pharmacist if you're unable to use your sharps bin.\n\nFor personalized guidance or if you have any concerns, you're encouraged to contact Voy's clinical team directly through your account or book a call with them.\n\nPlease note, these instructions are supplementary to the information provided in the patient information leaflet included with your medication. Always refer to the patient information leaflet for comprehensive guidance.\n\n**Medical Disclaimer:** This guidance is based on Voy's official documentation and is intended for informational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your healthcare provider with any questions you may have regarding a medical condition or treatment.",
+    "response_time": 14.25639796257019
+  },
+  {
+    "question": "What is the treatment titration pathway?",
+    "category": "in_domain",
+    "expected_confidence": "high",
+    "actual_confidence": "low",
+    "confidence_match": false,
+    "expected_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/33213821626772-What-is-the-treatment-titration-pathway"
+    ],
+    "actual_urls": [],
+    "urls_match": false,
+    "reference_answer": "We understand that the typical titration path might not be for everyone. So you're more than welcome to remain on the same dose or reduce your dose throughout your treatment.\u00a0If your treatment plan is for Mounjaro or Wegovy, typically, your dose will increase every 28 days with your order renewal. Here's a breakdown of the titration path according to your treatment plan for Mounjaro and Wegovy:\n\u00a0\nWegovy\n\n0.25mg - automatically titrate up to the next dose\n0.5mg - automatically titrate up to the next dose\n1mg - you'll automatically stay on this dose unless you tell us you'd like to go up\n1.7mg - optional titration\n2.4mg - optional titration\n\nMounjaro\u00a0\n\n2.5mg - automatically titrate up to the next dose\n5mg - automatically titrate up to the next dose\n7.5mg - automatically titrate up to the next dose\n10mg - you'll automatically stay on this dose unless you tell us you'd like to go up\n12.5mg - optional titration\n15mg\u00a0- automatically titrate up to the next dose\n\n\u00a0\nHow do I change my dose?\u00a0\nYou can adjust your dosage directly from your account. Based on your current dose, you'll have the option to increase, maintain, or lower the strength.If you still need help, please speak to our Customer Support Team either via livechat from your account, or by emailing help@joinvoy.com and our team will be there to support you. So that we can update your plan before your next order, please let us know at least 3 days before your next order if you'd like to make any changes. You can check your next order date and current strength in your account under Manage Plans and Orders.\u00a0We're working hard to give you more flexibility and autonomy in your treatment plan, if you have any feedback or suggestions, we'd love to hear them, just speak to our team.\u00a0",
+    "actual_answer": "I apologize, but I couldn't find relevant information in Voy's documentation to answer your question accurately. Please contact Voy's support team directly for more information.",
+    "response_time": 0.24781584739685059
+  },
+  {
+    "question": "Information about Wegovy?",
+    "category": "in_domain",
+    "expected_confidence": "high",
+    "actual_confidence": "high",
+    "confidence_match": true,
+    "expected_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/32299448990356-Information-about-Wegovy"
+    ],
+    "actual_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/32299448990356-Information-about-Wegovy",
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/32299448990356-Information-about-Wegovy",
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/32299448990356-Information-about-Wegovy"
+    ],
+    "urls_match": true,
+    "reference_answer": "We understand this is an initial step in your weight loss journey towards healthy living, and we\u2019re here for every bump in the road. Just let us know if you have any worries, feedback or questions.\nAs a first step, it\u2019s important for you to take the time to read the manufacturer\u2019s patient information leaflet enclosed in your box. This gives you everything you need to know about how to take the medication, what to avoid, side effects and potential interactions with other medications.\n\u00a0\nWhat is Wegovy\nWegovy contains a hormone called GLP-1 that occurs naturally in the gut. Its purpose is to regulate appetite and provide a feeling of fullness for an extended period, helping to reduce cravings and keep you satisfied after meals. By targeting the receptors responsible for appetite in the brain, this medication helps to lower the body's natural \u2018set point\u2019, which is the weight it strives to maintain. Since Wegovy reduces your appetite, it gives you the opportunity to make healthier choices and reduce your calorie intake to optimise your weight loss.\nHow does Wegovy work?\u00a0\nIn a nutshell\n1. Reduces appetite\u2014so you are less hungry\n2. Reduces cravings\u2014so it\u2019s easier to make healthy choices\n3. Reduces your set point\u2014so you can lose more weight before starting to plateau\n\u00a0\nWegovy Titrations\nWegovy is available in 5 different dose strengths \u2013 0.25mg, 0.5mg, 1mg, 1.7mg &amp; 2.4mg. You start Wegovy at a dose of 0.25 mg once a week and increase the dose every 4 weeks until you reach 1mg. It is essential that your starting dose is 0.25mg - if you have received any other strength, please get in touch with our customer support team before starting your treatment.\nIf you'd like to, you can also increase to 1.7mg and 2.4mg for enhanced appetite suppression but this is optional. The dose is gradually increased to allow your body to get used to the medication and minimise any side effects you might experience.\n\u00a0\nHow to take Wegovy?\nYou need to inject Wegovy once a week (on the same day each week), under the skin. It should be injected in the abdomen (keep 5cm away from your belly button), upper legs or upper arms. We advise you to mix up your injection sites each week to minimise discomfort.\nWatch our video about how to take Wegovy before you start your treatment: How to take Wegovy\n\u00a0\nHow to store Wegovy\nYou can keep the pen for 6 weeks when stored at a temperature below 30\u00b0C or in a refrigerator (2\u00b0C to 8\u00b0C). Do not freeze your medication and keep it away from the freezer compartment.\nWhen you are not using the pen, keep the pen cap on in order to protect it from light.\nPlease do not use your medicine if the solution is not clear and colourless or almost colourless.\nYou should start using your treatment within 7 days of receiving it and finish using it within 6 weeks from the date on the Voy pharmacy label applied to your medication.\nOnce you\u2019ve used your needles and finished your pen, you can dispose of it in the sharps bin provided. Do not throw away any medicines via wastewater or household waste. If you\u2019re unable to use your sharps bin, ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.\nThese instructions are supplementary to the information provided in the patient information leaflet in your medication box which you\u2019ll receive within your order.\u00a0",
+    "actual_answer": "Wegovy is a medication that contains a hormone called GLP-1, which is naturally found in the gut. Its primary function is to regulate appetite and induce a feeling of fullness for an extended period. This helps in reducing cravings and maintaining satisfaction after meals. Wegovy works by targeting the receptors in the brain that are responsible for appetite, thereby lowering the body's natural 'set point' or the weight it naturally tries to maintain. By reducing your appetite, Wegovy provides an opportunity to make healthier food choices and decrease calorie intake, which is essential for weight loss.\n\nThe mechanism of Wegovy can be summarized as follows:\n1. It reduces appetite, making you feel less hungry.\n2. It diminishes cravings, making it easier to opt for healthy food choices.\n3. It lowers your set point, allowing you to lose more weight before your weight loss starts to plateau.\n\nFor anyone considering Wegovy as part of their weight loss journey, it's crucial to read the manufacturer\u2019s patient information leaflet that comes with the medication. This leaflet contains detailed information on how to take the medication correctly, what substances to avoid while taking it, its side effects, and potential interactions with other medications.\n\nPlease remember, this information is based on Voy's official documentation and is intended for educational purposes only. Always consult with a healthcare provider for medical advice, diagnosis, or treatment. It's important to have a healthcare professional guide your weight loss journey, especially when it involves prescription medications like Wegovy.\n\nFor more detailed information or if you have any concerns, feedback, or questions, it's encouraged to reach out as part of your support system during your weight loss journey.\n\n[No URL provided as this response is based on the provided context from Voy's documentation and not from an external source.]",
+    "response_time": 13.438338994979858
+  },
+  {
+    "question": "Information about Mounjaro?",
+    "category": "in_domain",
+    "expected_confidence": "high",
+    "actual_confidence": "high",
+    "confidence_match": true,
+    "expected_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/32242827773716-Information-about-Mounjaro"
+    ],
+    "actual_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/32242827773716-Information-about-Mounjaro",
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/32242827773716-Information-about-Mounjaro",
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/33213821626772-What-is-the-treatment-titration-pathway"
+    ],
+    "urls_match": true,
+    "reference_answer": "What is Mounjaro\u00a0\nMounjaro is a new medication that activates the receptors of two hormones found in the digestive tract known as GLP-1 and GIP which increase after we eat. They combine to provide a feeling of fullness for an extended period. By also targeting receptors in the brain it helps to lower the \u2018set point\u2019 which is the weight it ordinarily strives to maintain. Mounjaro gives you the opportunity and makes it easier to opt for healthier choices to reduce your calorie intake to optimise your weight loss.\nIf you would like to know even more about how Mounjaro works you can learn more from the following site: Mounjaro.com.\n\u00a0\nHow does Mounjaro work?\nIn a nutshell:\n\nReduces appetite \u2013 so you are less hungry\nReduces cravings \u2013 so it\u2019s easier to make healthy choices\nReduces your set point \u2013 so you can lose more weight before reaching a plateau\n\n\u00a0\nMounjaro Titrations\nMounjaro comes in six different dose strengths: 2.5mg, 5mg, 7.5mg, 10mg, 12.5mg and 15mg. You\u2019ll start Mounjaro at a dose of 2.5mg once a week and increase the dose every 4 weeks, automatically, until you reach the full dose of 15mg by month 6. The dose is gradually increased to allow your body to get used to the medication and minimise any side effects you might experience. Unless otherwise agreed with a clinician, it is essential that your starting dose is 2.5mg - if you have received any other strength, please get in touch with our customer support team before starting your treatment.If you do not want to increase your dose every 4 weeks, please speak to our Medical Team or Customer Care Team, and we'll update your subscription.\u00a0\n\u00a0\nWhy is there excess liquid after my fourth dose?\nEvery Mounjaro Kwikpen comes with four doses of medication and enough liquid to prime your pen before every dose. This means that you will see an excess of liquid in your pen after you\u2019ve taken your four doses. This is to be expected and should not be something to worry about. \nPlease do not attempt to take more than 4 doses of your medication, attempting to use your pen more than four times will lock your pen and you\u2019ll no longer be able to access the liquid.\u00a0\n\u00a0\nWhere can I find the expiry date for my Mounjaro pen?\nYou can find the expiry date of your medication on the side of your medication box. This will be shown as \u2018EXP: DATE\u2019. The expiry date refers to the end of the month that is noted.\u00a0\n\u00a0\nHow do I take Mounjaro?\u00a0\nMounjaro is injected once a week (on the same day each week), under the skin, in the subcutaneous fat. It should be injected in the abdomen, thigh or upper arm (it\u2019s advisable to rotate to a slightly different part of your body each time you inject, this minimises potential discomfort/irritation).\nPlease note that the medication is contained within the clear chamber in the pen, not the individual needles \u2013 these are used to deliver each dose.\n\u00a0\nWatch our step-by-step guide on how to take your Mounjaro before you start your treatment: How to take Mounjaro\n\u00a0\nHow to store your Mounjaro\u00a0\nYou should store Mounjaro in the refrigerator between 2\u00b0C to 8\u00b0C (36\u00b0F to 46\u00b0F). If needed, each pen can be stored at room temperature up to 30\u00b0C ( 86\u00b0F) for up to 30 days.\nOnce you've started the pen, it must be used within 30 days of the first dose.\nThese instructions are supplementary to the information provided in the patient information leaflet in your medication box provided with each order.\u00a0\nDo not use this medicine if the solution is not clear and colourless or almost colourless (slightly yellow).\nOnce you\u2019ve used your needles and finished your pen, you can dispose of it in the sharps bin provided. Do not throw away any medicines via wastewater or household waste. If you\u2019re unable to use your sharps bin, ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.",
+    "actual_answer": "Mounjaro is a medication designed to aid in weight loss by activating receptors for two hormones, GLP-1 and GIP, which are found in the digestive tract and increase after eating. These hormones help provide a feeling of fullness for an extended period and target receptors in the brain to help lower the body's 'set point' for weight, making it easier to make healthier choices and reduce calorie intake to optimize weight loss.\n\nMounjaro works by reducing appetite, cravings, and the body's set point, which can help users lose more weight before reaching a plateau. It is administered through a once-weekly injection under the skin, in areas such as the abdomen, thigh, or upper arm, with the advice to rotate the injection site each time to minimize discomfort or irritation.\n\nThe medication should be stored in the refrigerator between 2\u00b0C to 8\u00b0C (36\u00b0F to 46\u00b0F) and can be kept at room temperature up to 30\u00b0C (86\u00b0F) for up to 30 days if necessary. Once a pen is started, it must be used within 30 days.\n\nMounjaro is available in dosages that start at 2.5mg and can be titrated up to higher doses based on the individual's response and as advised by their healthcare provider. The dosages available are 2.5mg, 5mg, 7.5mg, 10mg, 12.5mg, and 15mg, with specific instructions for titration.\n\nFor more detailed information on how Mounjaro works and guidance on how to take it, including a step-by-step guide, you can visit the official site: Mounjaro.com.\n\nPlease note, this information is based on Voy's official documentation and is intended for educational purposes only. It is important to consult with a healthcare provider before starting any new medication to ensure it is appropriate for your health condition.",
+    "response_time": 18.67338800430298
+  },
+  {
+    "question": "How do I upload photos?",
+    "category": "in_domain",
+    "expected_confidence": "high",
+    "actual_confidence": "high",
+    "confidence_match": true,
+    "expected_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/31894643942420-How-do-I-upload-photos"
+    ],
+    "actual_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/31894643942420-How-do-I-upload-photos",
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/31894643942420-How-do-I-upload-photos",
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20198861856916-How-do-I-sign-up-to-Voy"
+    ],
+    "urls_match": true,
+    "reference_answer": "During your weight loss journey, you'll be asked to upload photos. This is so we can monitor your progress and safely prescribe your medication. Here's how to upload photos at each stage:\n\u00a0\nDuring Sign up &amp; Safety Checks\u00a0\nOnce you've signed up to Voy, you'll be asked to complete two tasks:\n1) upload a full-length photo of yourself taken that day\n2) upload a photo of your ID\n\u00a0\nYou can upload your photos to the tasks located on the Home page of your online account. If you have tasks to complete you'll find them here.\u00a0If you've been asked to complete a task but can't see any tasks on your account. You can upload photos to your Messages with our Clinical Team on your Support page by clicking the paper clip icon in the text box.\u00a0If you're still unable to upload your photos, please speak to our Customer Care Team who will be happy to help you upload your photos to your tasks.\u00a0You might also find this FAQ helpful: How does the approval process work?\n\u00a0\nWhy do we ask for photos?\u00a0\nThroughout your weight loss journey, we might ask you to upload new photos to help us monitor and review your progress towards your goal weight. This is to make sure we're safely prescribing medication at every step of your journey.\u00a0Your photos are only viewed by our Clinical Team for the purpose of reviewing your eligibility.\u00a0\n\u00a0\nHow can I track my progress?\u00a0\nYou can also track your own progress within the Voy app by either submitting your weight or a photo of yourself.\u00a0Open the Voy app and click on 'Progress' from the menu at the bottom of the screen. Here you can add photos and track your progress.\u00a0If you decide you'd no longer like to see your photos you can enable 'privacy mode' by clicking on Timeline and then the 'eye' icon in the left-hand corner.\u00a0You can download the Voy app on both the Apple App Store and Google Play Store.\u00a0\n\u00a0",
+    "actual_answer": "To upload photos during your weight loss journey with Voy, please follow these steps:\n\n1. **During Sign up & Safety Checks:**\n   - After signing up for Voy, you will be required to complete two tasks:\n     1. Upload a full-length photo of yourself, taken on the same day.\n     2. Upload a photo of your ID.\n   - These photos can be uploaded to the tasks located on the Home page of your online account. If you have tasks to complete, they will be found there.\n\n2. **If You Can't See Any Tasks:**\n   - If you've been asked to complete a task but cannot see any tasks on your account, you have the option to upload photos directly to your Messages with our Clinical Team on your Support page. This can be done by clicking the paper clip icon in the text box.\n\n3. **Troubleshooting:**\n   - If you're still unable to upload your photos, please contact our Customer Care Team for assistance in uploading your photos to your tasks.\n\n**Why Photos Are Required:**\n- A full-length photo of yourself is needed for the purpose of your consultation on the day it's taken.\n- A photo of your ID is required for verification purposes.\n\n**After Uploading Photos:**\n- Our Clinical Team will review your photos within 1 business day. If they need more information or require new photos, they will send you a message to the messages section on your account.\n\n**If More Information Is Needed:**\n- You can respond to the medical team using the text box provided in your messages. If more photos are needed, they will either create new tasks for you to complete or you can use the paper clip icon in your messages to upload additional photos if required.\n\n**If You're Not Eligible:**\n- If it's determined that Voy's service is not suitable for you, this decision is made to maintain high standards of safeguarding and healthcare compliance. For more information about your specific circumstances, contact our Customer Care Team.\n\n**Need More Help?**\n- For a visual guide on how to upload photos, you can watch the instructional video provided by Voy. If you need further assistance, please contact the Customer Care Team at the contact details provided on Voy's platform.\n\nFor any medical-related questions or concerns, it's important to consult directly with healthcare professionals. This guidance is based on Voy's official documentation and does not substitute for professional medical advice.\n\nSource: Based on the provided context from Voy's documentation.",
+    "response_time": 18.628319025039673
+  },
+  {
+    "question": "Which forms of ID does Voy accept?",
+    "category": "in_domain",
+    "expected_confidence": "high",
+    "actual_confidence": "high",
+    "confidence_match": true,
+    "expected_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/31871891934868-Which-forms-of-ID-does-Voy-accept"
+    ],
+    "actual_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/31871891934868-Which-forms-of-ID-does-Voy-accept",
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20168038957844-Why-doesn-t-VOY-mention-prescription-medications-by-name",
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/31871891934868-Which-forms-of-ID-does-Voy-accept"
+    ],
+    "urls_match": true,
+    "reference_answer": "As part of your approval process, we'll ask you to upload a form of ID. Here's some guidance on the types of ID we accept.\u00a0Accepted Forms of Photo ID\nTo be accepted, your ID needs to show:\n\nFull name\nDate of birth\nPhoto\n\nYou can still use an ID that\u2019s out of date as long as it still looks like you, and your name and date of birth haven\u2019t changed.\nHere are some examples of IDs that may work if they meet the requirements above:\n\nPassport from the UK, Channel Islands, Isle of Man, British Overseas Territory, an EEA state, or Commonwealth country (including Irish Passport Cards)\nDriving licence from the UK, Channel Islands, Isle of Man, or an EEA state (including provisional licences)\nBlue Badge\nUK Government-funded Older Person\u2019s Bus Pass or Disabled Person\u2019s Bus Pass\n60+ London Oyster Photocard (from Transport for London)\nFreedom Pass\nScottish National Entitlement Card (for 60+, disabled, or under-22s)\n60 and Over Welsh Concessionary Travel Card\nDisabled Person\u2019s Welsh Concessionary Travel Card\nNorthern Ireland Senior SmartPass, Registered Blind or Blind Person\u2019s SmartPass, War Disablement SmartPass, 60+ SmartPass, or Half Fare SmartPass\nID card with a Proof of Age Standards Scheme (PASS) hologram\nBiometric immigration document\nMinistry of Defence Form 90 (Defence Identity Card)\nNational identity card from an EEA state\nNorthern Ireland Electoral Identity Card\nVoter Authority Certificate\nAnonymous Elector's Document\n",
+    "actual_answer": "Voy accepts several forms of photo ID for the approval process, as long as they display your full name, date of birth, and photo. Even IDs that are out of date can be used, provided they still resemble you and your name and date of birth remain unchanged. Accepted forms of ID include:\n\n- Biometric immigration document\n- Ministry of Defence Form 90 (Defence Identity Card)\n- National identity card from an EEA state\n- Northern Ireland Electoral Identity Card\n- Voter Authority Certificate\n- Anonymous Elector's Document\n\nTo get started with Voy, you should visit their website, click on \"Am I Eligible\", and complete the medical questionnaire. This step is crucial for the Clinical Team to assess your needs and determine if their treatment is suitable for you.\n\nPlease note, this information is based on Voy's official documentation and is accurate as of the last update. Always refer to the most current information on Voy's website or contact them directly for any specific inquiries or updates.",
+    "response_time": 6.7778000831604
+  },
+  {
+    "question": "How do payments work?",
+    "category": "in_domain",
+    "expected_confidence": "high",
+    "actual_confidence": "high",
+    "confidence_match": true,
+    "expected_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/31256352027156-How-do-payments-work"
+    ],
+    "actual_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/31256352027156-How-do-payments-work",
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/31256352027156-How-do-payments-work",
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/31256352027156-How-do-payments-work"
+    ],
+    "urls_match": true,
+    "reference_answer": "At Voy, we aim to make your weight loss journey as smooth as possible, including the payment process. Here's everything you need to know about payments, billing, and security.\nHow does billing work?\nAs a subscription-based service, your payments will automatically process in line with your treatment plan. This will be every 28 or 42 days, depending on your plan.\nTo check the frequency of your payments, please review your subscription details on your account under Manage Plans and Orders.\nWhat payment methods do you accept?\nWe offer a variety of payment options to suit your needs:\n\nMajor debit cards\nCredit cards (including American Express)\nPayPal (only available during checkout)\u00a0\n\nAre my purchases secure?\nAbsolutely. We prioritise the security of your financial information.\n\nAll payments are processed through a secure payment system\nWe do not have access to your full card details\nYou can update your billing method at any time on your Account under Account Details\n\n\nOnce your payment has been successfully processed you'll be able to see the payment in your bank statement under Menwell LTD or MANUAL. MANUAL is our sister company.\u00a0\nHow much is my next order?\nTo find the price of your next order:\n\nLog into your account\nGo to Account\n\nThen click on Manage Plans and Orders\n\n\nHere you'll see the cost of your next payment, including any discounts and the treatment you are on.\nWhat if my payment fails?\nIf your payment is unsuccessful:\n\n\nIf your payment doesn\u2019t go through, we\u2019ll automatically retry the payment over the next 28 days at 10 PM on the following days:\nDay 0 (first attempt), then Days: 1, 2, 3, 5, 10, 15, 20, 25, 28\n\nIf the payment is still unsuccessful after 28 days, we'll cancel your subscription\n\nIf you need to update your payment details, please follow the following steps:\n\nGo to your Account, then Account Details\n\nClick 'change' next to your current details\nAdd new or update your card information\n\nCan I get a company invoice or VAT receipt?\nAt present, we do not provide company invoices.\nWe're here to ensure your Voy experience is as seamless as possible, from treatment to billing. Your journey to better health is our priority, and we're committed to supporting you every step of the way.",
+    "actual_answer": "Payments for Voy's telehealth weight loss service are designed to be straightforward and secure, aligning with the goal of making your weight loss journey smooth. Here's a summary of how payments work based on Voy's official documentation:\n\n1. **Billing Cycle**: Voy operates on a subscription-based model. Payments are automatically processed either every 28 or 42 days, depending on the treatment plan you are subscribed to. You can check the frequency of your payments by reviewing your subscription details under \"Manage Plans and Orders\" in your account.\n\n2. **Accepted Payment Methods**: Voy accepts a variety of payment options to accommodate your needs, including:\n   - Major debit cards\n   - Credit cards (including American Express)\n   - PayPal, which is only available during checkout\n\n3. **Security of Purchases**: Voy prioritizes the security of your financial information. All payments are processed through a secure payment system, and Voy does not have access to your full card details. You can update your billing method anytime under \"Account Details\" in your account.\n\n4. **Failed Payments**: If a payment is unsuccessful, Voy will automatically retry the payment over the next 28 days at specific intervals. If the payment remains unsuccessful after 28 days, your subscription will be canceled. You can update your payment details in your account under \"Account Details.\"\n\n5. **Invoices and VAT Receipts**: Currently, Voy does not provide company invoices.\n\n6. **Checking Next Order Cost**: To find out the cost of your next order, including any discounts and details about the treatment you are on, log into your account and navigate to \"Manage Plans and Orders.\"\n\nFor any further details or to manage your subscription and payments, please log into your Voy account.\n\nPlease note, this information is based on Voy's official documentation and is accurate as of the last update. For the most current information or specific inquiries, refer directly to Voy's platform or contact their customer support.\n\n[No URLs were provided with the original context, so specific source URLs cannot be included.]",
+    "response_time": 29.296769857406616
+  },
+  {
+    "question": "How does refer-a-friend work?",
+    "category": "in_domain",
+    "expected_confidence": "high",
+    "actual_confidence": "high",
+    "confidence_match": true,
+    "expected_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/26154029658388-How-does-refer-a-friend-work"
+    ],
+    "actual_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/26154029658388-How-does-refer-a-friend-work",
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/26154029658388-How-does-refer-a-friend-work"
+    ],
+    "urls_match": true,
+    "reference_answer": "We're delighted that you're considering sharing Voy with the people you know! Our refer-a-friend programme is our way of saying thank you for spreading the word about your weight loss journey and our service. Here's how it works:\nFor your friend\nThey'll receive a 25% discount on their first order.\nFor you\nYou'll earn a discount on your next order based on how many friends you refer:\n\nOne or two friends: 30% off your next order\nThree or more friends: 60% off your next order\n\nHow to refer a friend\n\nLog into your Voy account\nGo to your\u00a0Refer a Friend\u00a0page (top right corner of your account)\nClick the orange 'copy' button next to your referral link\nShare this link with your friend (paste it in a message)\n\nYour friend needs to use this link when placing their order for the discount to apply.\nTracking your discounts\nCheck your\u00a0Refer a Friend page\u00a0to see the discount for your next order. Remember, this resets after each order is processed.\nWe're excited to have you share the Voy experience with your friends. Together, we can create a community of support on your weight loss journey!*You will receive the discount on your next order once the person you referred has placed an order and it has been approved. If they only sign up without placing an order, you will not receive the discount.\n\u00a0\nOther Discounts\nWe do not currently offer any other discounts such as NHS discounts, Key Worker discounts or Student discounts.",
+    "actual_answer": "The Voy refer-a-friend program is designed to reward both you and your friends when you share the Voy experience. Here's a summary of how it works:\n\n**For Your Friend:**\n- They will receive a 25% discount on their first order when they use your referral link.\n\n**For You:**\n- If you refer one or two friends, you'll get a 30% discount on your next order.\n- If you refer three or more friends, you'll enjoy a 60% discount on your next order.\n\n**How to Refer a Friend:**\n1. Log into your Voy account.\n2. Navigate to your Refer a Friend page, which you can find at the top right corner of your account.\n3. Click the orange 'copy' button next to your referral link to copy it.\n4. Share this link with your friends by pasting it into a message to them.\n\n**Important Notes:**\n- Your friend must use your referral link when placing their order for the discount to apply.\n- You can track your discounts on your Refer a Friend page. The discount resets after each order is processed.\n- You will only receive the discount on your next order once the person you referred has placed an order and it has been approved. Simply signing up without placing an order does not qualify for the discount.\n\n**Other Discounts:**\n- Currently, Voy does not offer any other discounts such as NHS discounts, Key Worker discounts, or Student discounts.\n\nPlease remember, this information is based on Voy's official documentation and is accurate as of the last update. Always check the Voy platform for the most current information or changes to the refer-a-friend program.\n\nFor any medical-related questions or concerns about weight loss treatments or medications, it's important to consult directly with a healthcare professional. This response does not contain medical advice.",
+    "response_time": 16.834875106811523
+  },
+  {
+    "question": "How does the approval process work?",
+    "category": "in_domain",
+    "expected_confidence": "high",
+    "actual_confidence": "high",
+    "confidence_match": true,
+    "expected_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/24609569961876-How-does-the-approval-process-work"
+    ],
+    "actual_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/24609569961876-How-does-the-approval-process-work",
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/24609569961876-How-does-the-approval-process-work",
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20199416561172-Where-is-my-order"
+    ],
+    "urls_match": true,
+    "reference_answer": "At Voy, we're committed to providing safe and effective weight loss solutions. Our approval process ensures that we're prescribing the right treatment for you. Here's how it works:\n1. Complete Two Tasks\nAfter placing your order, you'll need to: \n\nUpload a full-length photo of yourself (taken on the day for the consultation) \nUpload a photo of your ID\n\nThese photos help us verify your identity and BMI, which is crucial for online prescriptions and maintaining high standards of care.\n2. Clinical Review\nOur Clinical Team will review your photos and medical history. If approved, your medication will be dispatched within 1-3 working days.\n3. Follow-Up (if needed)\nIf we need more information, our Clinical Team will message you through your account's\u00a0messages\u00a0feature.\nWhat if my tasks are not approved?\n\nIf your photo isn't approved, you'll see a new task on your home page to submit a new one.\nYou can also upload photos directly in your\u00a0messages\u00a0to the Clinical Team.\n\nWhat if my order is not approved?\nIf we can't approve your treatment, we'll explain why and cancel your order. Any pending payments will be released within 5 working days.\nRemember, you can always check your\u00a0messages\u00a0for updates from our Clinical Team.\nWe're here to guide you through every step of your weight loss journey, ensuring you receive the most appropriate and effective treatment.",
+    "actual_answer": "The approval process at Voy for prescribing weight loss treatment involves several steps to ensure safety and effectiveness. Here's a summary of how it works:\n\n1. **Complete Two Tasks**: After you place your order, you are required to upload two types of photos:\n   - A full-length photo of yourself, taken on the same day as the consultation.\n   - A photo of your ID.\n   \n   These photos are necessary for verifying your identity and Body Mass Index (BMI), which are crucial for online prescriptions and maintaining high standards of care.\n\n2. **Clinical Review**: The Clinical Team at Voy will review your photos and medical history. If they approve, your medication will be dispatched within 1-3 working days.\n\n3. **Follow-Up (if needed)**: If the Clinical Team requires more information, they will contact you through the messages feature in your account.\n\n**If your tasks are not approved**: You will be prompted to submit a new photo via a new task on your home page or directly in your messages to the Clinical Team.\n\n**If your order is not approved**: Voy will explain why and cancel your order. Any pending payments will be released within 5 working days.\n\n**For First-Time Orders**: If you haven't received your first order, check your account's Medical Team messages on the Support Page for approval confirmation or follow-up questions. You can also check the status of your order under \"Manage Plans and Orders\" from your Account page or \"Order History\".\n\n**If You Haven't Received Tracking Information** and it's been more than two days since your order was approved, it's suggested to check for updates from the Clinical Team in your account messages or email for any communication regarding your order status.\n\nPlease note, this process is designed to ensure that you receive the most appropriate and effective treatment for weight loss. Always consult with a healthcare professional for personal advice and before starting any new treatment.\n\nFor more detailed information or updates, please refer to Voy's official documentation or contact their support directly.",
+    "response_time": 26.527119159698486
+  },
+  {
+    "question": "How does my subscription work?",
+    "category": "in_domain",
+    "expected_confidence": "high",
+    "actual_confidence": "high",
+    "confidence_match": true,
+    "expected_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/24090327063060-How-does-my-subscription-work"
+    ],
+    "actual_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/24090327063060-How-does-my-subscription-work",
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20198884011412-How-do-I-update-my-account-or-subscription",
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/24090327063060-How-does-my-subscription-work"
+    ],
+    "urls_match": true,
+    "reference_answer": "You can find all the information about your subscription on your online account and your treatment plan. Here's what you need to know:\nHow regularly will I receive my medication?\nDepending on your treatment, your subscription will automatically renew every 28 or 42 days.\nTo find your renewal frequency, you can:\n\n\n\nCheck your treatment plan from your Support page under Messages\n\nView your plan under Account and then Manage Plans\n\n\n\n\nAs we're a subscription-based service, your next pen will automatically be sent to you in line with your treatment plan. So, there's no need to place another order.\u00a0For Mounjaro, your dose will automatically increase every month up to 10mg, and for Wegovy, your dose will automatically increase up to 1mg. However, please know that each order is subject to clinical approval.\u00a0\nOur system will automatically take your payment using the billing method you added to your online account.\nTo check when your last order took place, visit Order History from your Account page.\nWhat if my subscription says expired?\nDon't worry if you see this! For safeguarding reasons, our Clinician Team needs to approve your medication before it's sent.\n\nYour plan will show as expired on a monthly basis\nYour subscription will still be active and renewed unless cancelled\n\nWhat if I reach my goal weight?\nCongratulations! We're always really happy to see people feeling happier and healthier.\nIf you've reached your goal weight, speak to our Medical Team about the best next steps for you.\nAdditional Information\n\nFor more details about our programme read of our FAQ: How does the Voy programme work\n\nIf you need to make any updates to your subscription read of our FAQ How do I update my account or subscription\n\n\nWe're here to support you throughout your weight loss journey. If you have any questions about your subscription, don't hesitate to reach out to our Customer Care Team.",
+    "actual_answer": "Your subscription with Voy's telehealth weight loss service is designed to support you throughout your weight loss journey by providing you with your medication on a regular and automatic basis. Here's a summary of how your subscription works:\n\n1. **Renewal Frequency:** Your subscription will automatically renew every 28 or 42 days, depending on your specific treatment plan.\n\n2. **Checking Renewal Frequency:** You can find out the frequency of your subscription renewal by:\n   - Checking your treatment plan from your Support page under Messages.\n   - Viewing your plan under Account and then Manage Plans.\n\nFor more detailed information about managing your subscription and account, including updates to your account details such as billing method, delivery address, and general account preferences, you can log into your account, click on Account in the left-hand menu, and select Account Details. Here, you can change your personal info (email, name, phone number), shipping address, and billing address. It's important to note that your plan will show as expired on a monthly basis, but your subscription will remain active and be renewed unless cancelled.\n\nIf you reach your goal weight, Voy encourages you to speak to their Medical Team about the best next steps for you, highlighting their commitment to supporting you in achieving and maintaining your health goals.\n\nFor any further details about the Voy programme or if you need to make updates to your subscription, you can refer to their FAQs or reach out to the Customer Care Team for support.\n\nPlease remember, this information is based on Voy's official documentation and for any specific medical advice or concerns about your treatment or medication, it's important to consult directly with healthcare professionals.\n\nFor more details about the Voy programme and managing your account or subscription, you can read their FAQs:\n- How does the Voy programme work?\n- How do I update my account or subscription?\n\nIf you have any questions about your subscription or need further assistance, don't hesitate to contact Voy's Customer Care Team.",
+    "response_time": 27.253922939300537
+  },
+  {
+    "question": "Can I  restart my susbcription at a higher dosage?",
+    "category": "in_domain",
+    "expected_confidence": "high",
+    "actual_confidence": "high",
+    "confidence_match": true,
+    "expected_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/23616757771796-Can-I-restart-my-susbcription-at-a-higher-dosage"
+    ],
+    "actual_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/23616757771796-Can-I-restart-my-susbcription-at-a-higher-dosage",
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/24090327063060-How-does-my-subscription-work",
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/33213821626772-What-is-the-treatment-titration-pathway"
+    ],
+    "urls_match": true,
+    "reference_answer": "Yes, for Wegovy and Mounjaro, you can start on a higher dosage if you've already begun your treatment with another provider. Here's what you need to know:\nStarting at a Higher Dose\n\nDuring our\u00a0eligibility questions, we'll ask if you are currently taking any GLP-1 medication\nSelect 'Yes' and confirm the type of medication you're taking\u00a0\nConfirm the last dose you injected and when you last took your medication\u00a0\nContinue through the eligibility questions until you reach the checkout\nSelect the dose you'd like to order and checkout - this will start your subscription\n\nProviding Evidence of Your Current Prescription\nAfter placing your order, you'll be asked to complete 3 tasks on your online account\u00a0\n\nID\nA full-length photo of yourself for the purpose of this subscription\nevidence of your current medication\n\nIf you're unable to complete one of the tasks, you can message our Clinical Team on the Support page under 'Speak to Medical Team' for guidance. You can also upload a photo to your messages by clicking on the paperclip icon within the messaging space.\u00a0\n\u00a0\nThe evidence should include\n\nYour legal name\nName of the medication\nThe dosage\nThe date the prescription was approved\n\nAcceptable forms of evidence include:\n\nScreenshot of your NHS record\nConsultant letter\nPhoto of the prescription label on your medication box\nPrescription confirmation email from an online provider\n\nWe're here to ensure you receive the most appropriate treatment for your needs. If you have any questions about starting on a higher dosage, please don't hesitate to reach out to our Medical Team through your account messages.",
+    "actual_answer": "Yes, you can restart your subscription at a higher dosage for Wegovy and Mounjaro if you have already begun your treatment with another provider. Here are the steps to follow based on Voy's official documentation:\n\n1. During the eligibility questions, select 'Yes' when asked if you are currently taking any GLP-1 medication and confirm the type of medication you're taking.\n2. Confirm the last dose you injected and when you last took your medication.\n3. Continue through the eligibility questions until you reach the checkout.\n4. Select the dose you'd like to order and checkout to start your subscription.\n\nAfter placing your order, you will need to complete three tasks on your online account: provide a photo ID, a full-length photo of yourself for the purpose of this subscription, and evidence of your current medication. You can check your treatment plan from your Support page under Messages and view your plan under Account and then Manage Plans.\n\nYour next pen will automatically be sent to you in line with your treatment plan, with doses automatically increasing every month up to 10mg for Mounjaro and up to 1mg for Wegovy, subject to clinical approval. The payment will be automatically taken using the billing method added to your online account.\n\nIf your subscription says expired, it is for safeguarding reasons, and the Clinician Team needs to approve your medication before it's sent. Your plan will show as expired on a monthly basis, but your subscription will still be active and renewed unless cancelled.\n\nTo change your dose, you can adjust the dosage directly from your account, with options to increase, maintain, or lower the strength. If you need help, contact the Customer Support Team via live chat from your account or by emailing help@joinvoy.com. Please inform the team at least 3 days before your next order if you'd like to make any changes.\n\nFor more information or to make changes to your plan, please refer to Voy's official documentation or contact their Customer Support Team.\n\nMedical Disclaimer: Always consult with a healthcare provider for medical advice, diagnosis, or treatment. The information provided here is based on Voy's official documentation and is not intended to replace professional medical advice.",
+    "response_time": 33.85334801673889
+  },
+  {
+    "question": "My treatment arrived faulty or damaged?",
+    "category": "in_domain",
+    "expected_confidence": "high",
+    "actual_confidence": "low",
+    "confidence_match": false,
+    "expected_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20199921645204-My-treatment-arrived-faulty-or-damaged"
+    ],
+    "actual_urls": [],
+    "urls_match": false,
+    "reference_answer": "We strive to ensure that all our products reach you in perfect condition. However, if you receive a faulty or damaged item, we're here to help. Please follow these steps:\n1. Contact Us Promptly\n\n\nTime Frame: Contact us within 10 days of receiving your order.\n\nMethod: Email our Customer Care Team at help@joinvoy.com.\n\nInclude: A clear photo of the damaged or faulty item.\n\n2. Provide Details\nIn your email, please include:\n\nYour order number\nA description of the issue\nThe date you received the order\n\n3. Keep the Item\n\nDo not dispose of the faulty or damaged product.\nWe'll need it for our investigation and potential return.\n\n4. Our Response\n\nWe'll review your case and respond promptly.\nIf necessary, we'll provide a free returns label for you to send the item back.\n\n5. Resolution\nBased on our investigation, we'll offer an appropriate solution, which may include:\n\nReplacement of the item\nRefund\nOther compensation as applicable\n\nWe apologize for any inconvenience and appreciate your patience as we work to resolve the issue.\nFor any other questions or concerns, please don't hesitate to reach out to our Customer Care Team.",
+    "actual_answer": "I apologize, but I couldn't find relevant information in Voy's documentation to answer your question accurately. Please contact Voy's support team directly for more information.",
+    "response_time": 0.4355299472808838
+  },
+  {
+    "question": "What is your Returns policy?",
+    "category": "in_domain",
+    "expected_confidence": "high",
+    "actual_confidence": "high",
+    "confidence_match": true,
+    "expected_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20199844131348-What-is-your-Returns-policy"
+    ],
+    "actual_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20199844131348-What-is-your-Returns-policy",
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20199844131348-What-is-your-Returns-policy",
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20199921645204-My-treatment-arrived-faulty-or-damaged"
+    ],
+    "urls_match": true,
+    "reference_answer": "At Voy, we're committed to providing you with the best possible service and support for your weight loss journey. Our returns policy is designed to ensure your safety while adhering to legal requirements for prescription medications.\nPrescription Medications\n\nCancellation Window: You can only cancel an order up until the point at which the prescription is approved by our medical team.\nAfter Approval: Once a prescription-only medication has been approved, we cannot cancel the order or accept a return of the items.\n\nThis policy is in line with the Consumer Protection (Distance Selling) Regulations 2000, which exempts prescription medications from standard return rights.\nLegal Basis\nThe regulations state that consumers don't have the right to cancel a contract for:\n\"...the supply of goods made to the consumer's specifications or clearly personalised or which by reason of their nature cannot be returned or are liable to deteriorate or expire rapidly.\"\nNon-Prescription Items\nFor non-prescription items, we accept returns up to 14 days after purchase. Please contact our Customer Care Team at\u00a0help@joinvoy.com\u00a0for a returns label.\nOur Commitment\nWhile we can't accept returns on prescription items, we're here to support you throughout your treatment. If you have any concerns or questions about your medication, please don't hesitate to reach out to our Clinical Team.\nYour health and satisfaction are our top priorities, and we're committed to ensuring you have the best possible experience with Voy.",
+    "actual_answer": "Voy's returns policy is designed with your safety and legal requirements in mind, especially concerning prescription medications. Here's a summary of the key points from their policy:\n\n1. **Prescription Medications:**\n   - **Cancellation Window:** You can cancel an order only before the prescription is approved by Voy's medical team.\n   - **After Approval:** Once a prescription-only medication has been approved, Voy cannot cancel the order or accept returns of the medication. This policy aligns with the Consumer Protection (Distance Selling) Regulations 2000, which exempts prescription medications from standard return rights due to their nature.\n\n2. **Non-Prescription Items:**\n   - Returns are accepted up to 14 days after purchase. For returns, you should contact Voy's Customer Care Team at help@joinvoy.com to obtain a returns label.\n\n3. **Resolution for Issues:**\n   - If there's an issue with your order, Voy's policy includes offering a resolution such as a replacement of the item, a refund, or other compensation as applicable.\n\n4. **Commitment to Support:**\n   - While returns on prescription items are not accepted, Voy emphasizes their commitment to supporting you throughout your treatment. If you have concerns or questions about your medication, you're encouraged to contact their Clinical Team.\n\n5. **Contact for Concerns:**\n   - For any questions or concerns, reaching out to Voy's Customer Care Team is recommended.\n\nPlease note, this summary is based on Voy's official documentation and does not include any made-up or inferred information. For specific concerns or more detailed information, contacting Voy directly would be the best course of action.\n\n**Medical Disclaimer:** Always consult with a healthcare professional for medical advice or concerns about treatment. The information provided here is based on Voy's documentation and is not intended as medical advice.\n\nFor further details or to address specific issues, please refer to Voy's contact resources or reach out to their Customer Care Team directly.",
+    "response_time": 29.183769941329956
+  },
+  {
+    "question": "Is the information I share with you private?",
+    "category": "in_domain",
+    "expected_confidence": "high",
+    "actual_confidence": "low",
+    "confidence_match": false,
+    "expected_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20199558930196-Is-the-information-I-share-with-you-private"
+    ],
+    "actual_urls": [],
+    "urls_match": false,
+    "reference_answer": "Yes, we take your privacy and security information very seriously. We have designed the platform to comply with all the relevant privacy laws and have implemented security protocols to protect your personal information.\nPlease read our\u00a0Privacy Policy\u00a0for more information.",
+    "actual_answer": "I apologize, but I couldn't find relevant information in Voy's documentation to answer your question accurately. Please contact Voy's support team directly for more information.",
+    "response_time": 0.5096173286437988
+  },
+  {
+    "question": "Do you ship abroad?",
+    "category": "in_domain",
+    "expected_confidence": "high",
+    "actual_confidence": "high",
+    "confidence_match": true,
+    "expected_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20199454690068-Do-you-ship-abroad"
+    ],
+    "actual_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20199454690068-Do-you-ship-abroad",
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20199454690068-Do-you-ship-abroad"
+    ],
+    "urls_match": true,
+    "reference_answer": "Due to prescribing regulations, we're currently only licensed to prescribe and deliver to addresses within the UK.\u00a0\nReasons for UK-Only Service\n\n\nPrescribing Regulations: Current prescribing regulations restrict us from providing our services internationally.\n\n\nLegal Compliance: To ensure we're operating within the bounds of the law and providing the safest possible service, we must limit our operations to the UK.\n\n\nTravelling Abroad?\nIf you're currently signed up to Voy and you will be travelling outside of the UK for your next delivery, we can amend your next order date so that your treatment arrives before or after your trip.Reach out to our Customer Care Team by emailing help@joinvoy.com or using the livechat feature on your online account with the dates of your travel and your preferred order date and we'll update this for you.\u00a0You might also find this FAQ helpful: How can I amend my next order date?We're constantly evaluating opportunities to expand our services. While we can't make any promises, we're always looking for ways to help more people on their weight loss journeys.\n\u00a0",
+    "actual_answer": "Voy is currently only licensed to prescribe and deliver to addresses within the UK due to prescribing regulations and the need to comply with legal requirements. This means Voy does not offer international shipping for its services. If you are a Voy customer planning to travel abroad, you can contact Voy's Customer Care Team to adjust your next order date so that your treatment arrives either before or after your trip. For assistance with amending your next order date, you can email help@joinvoy.com or use the live chat feature on your online account. Voy is exploring opportunities to expand its services but cannot guarantee international service expansion at this time.\n\nFor more information on adjusting your order date or Voy's shipping policies, please reach out directly to Voy's Customer Care Team.\n\n[No URL provided as this response is based on the provided context from Voy's documentation and not from an external source.]",
+    "response_time": 8.25507402420044
+  },
+  {
+    "question": "Where is my order?",
+    "category": "in_domain",
+    "expected_confidence": "high",
+    "actual_confidence": "high",
+    "confidence_match": true,
+    "expected_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20199416561172-Where-is-my-order"
+    ],
+    "actual_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20199416561172-Where-is-my-order",
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20199416561172-Where-is-my-order",
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20199416561172-Where-is-my-order"
+    ],
+    "urls_match": true,
+    "reference_answer": "We understand you're excited to receive your treatment and begin your weight loss journey with Voy. \nIf you're ever unsure when your order will arrive, here's how to track your order:\n\u00a0\nTracking Your Order\nYou can track your order from your account or by using the tracking links sent to the email address on your account.\u00a0\n\u00a0\n1. From your account\n\nManage plans and order: Here you can see whether your subscription is active, pending or cancelled. If your subscription is active, click on your treatment. On the next page you'll be able to see your 'Current order', click 'Track' to see the details of your delivery.\nOrder History:\u00a0 Here you'll be able to see the statuses of each order and track your previous orders using the 'track delivery' button.\u00a0\n\n2. From the 'your order has been dispatched' email\n\nTracking Email: You'll receive an email from Voy and our delivery partner with a tracking link. This email typically arrives in the evening, so don't worry if you haven't received it before 5 pm.\nDirect Tracking: You can also track your order directly on the\u00a0Royal Mail tracking page. Use the 'Track your order' button in your email.\n\n3. From the App\n\nOpen the Voy App and click on the \"Plan\" Tab\nFind your most recent order and click on \"Track Order\", here you will be able to see the tracking status of the order and track where the order is.\n\n\u00a0\nFor First-Time Orders\nIf you've not received your first order, the thing to do is check your order has been approved.You can check if your order has been approved from the Medical Team messages on your account from the Support Page. If your order has been approved you'll see a message from our Clinical Team confirming your approval. You will have also received an email from us, letting you know that your order has been approved.If you've not been approved yet, you might also see a message from the Clinical Team with follow-up questions as part of your eligibility check. Please use the text box provided to reply to the Clinical Team.\u00a0You can also check the status of your order under Manage Plans and orders from your Account page or Order History.\u00a0\n\u00a0\nIf You Haven't Received Tracking Information\nIf it's been more than two days since your order was approved:\n\nCheck your spam/junk mail folder for the tracking details.\nCheck the status of your order from your account\nContact customer support via livechat on your account or help@joinvoy.com\n\nWhat does each status mean?\n\nPending:\u00a0Before your order is approved by a clinician, your order will be pending\nApproval: Our Clinicians review and approve your treatment.\nProcessing order: Our Pharmacy Team prepares and packs your order - these orders can no longer be amended\nWith courier: Your order has been collected by our delivery partner and is on it's way to you, or has been delivered\n\nRemember, we're committed to getting your treatment to you as quickly and efficiently as possible. Your journey to better health is important to us, and we're here to support you throughout the process.",
+    "actual_answer": "To track your order with Voy, you have several options:\n\n1. **From Your Account**: You can manage and track your orders by logging into your account. Here, you can check if your subscription is active, pending, or cancelled. For active subscriptions, select your treatment to view and track your current order. You can also view and track the status of previous orders in the Order History section.\n\n2. **From the Dispatch Email**: After your order has been dispatched, Voy and the delivery partner will send you a tracking link via email, typically in the evening. If you haven't received it by 5 pm, it's advised to wait a bit longer. You can also track your order directly on the Royal Mail tracking page using the 'Track your order' button provided in your email.\n\n3. **From the Voy App**: By opening the Voy App and clicking on the \"Plan\" Tab, you can find and track your most recent order to see its tracking status.\n\nIf you can't find the tracking details, it's recommended to check your spam/junk mail folder. You can also check the status of your order from your account or contact customer support via live chat on your account or by emailing help@joinvoy.com.\n\nOrder Status Meanings:\n- **Pending**: Your order is awaiting approval by a clinician.\n- **Approval**: Your treatment has been reviewed and approved by clinicians.\n- **Processing Order**: The Pharmacy Team is preparing and packing your order, and it can no longer be amended.\n- **With Courier**: Your order has been collected by the delivery partner and is on its way to you or has already been delivered.\n\nVoy is committed to delivering your treatment promptly and efficiently, supporting you throughout your health journey.\n\nFor further assistance or if you have specific questions about your order, please contact Voy's customer support.",
+    "response_time": 25.234806060791016
+  },
+  {
+    "question": "How can I amend my next order date?",
+    "category": "in_domain",
+    "expected_confidence": "high",
+    "actual_confidence": "high",
+    "confidence_match": true,
+    "expected_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20199306207124-How-can-I-amend-my-next-order-date"
+    ],
+    "actual_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20199306207124-How-can-I-amend-my-next-order-date",
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20198884011412-How-do-I-update-my-account-or-subscription",
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20198884011412-How-do-I-update-my-account-or-subscription"
+    ],
+    "urls_match": true,
+    "reference_answer": "We understand that life doesn't always stick to a schedule, and sometimes you might need to adjust your treatment delivery. Whether you are overstocked or planning a trip, we're here to help you manage your next order date.\nChanging Your Order Date\n\n\nLog into Your Account: Visit joinvoy.com/login\n\n\nNavigate to Manage Plans and orders:\n\n\nClick on Account in the left-hand menu\n\n\nThen select \"Manage Plans and orders\"\n\n\n\nSelect your treatment\u00a0\nOn this page you'll be able to see your last order, as 'current' order and your next order.\nScroll down to 'Manage Next Order' - you'll be able to see the date of the order you're moving\u00a0\nClick \u2018Manage\u2019\nSelect a New Date: Choose an order date that works best for you\n\nNote: Due to the time-sensitive nature of our prescription medications, you can only push your order date back by 21 days or move it forward by up to 7 days. Your order and payment will now be processed on the selected date and should arrive 1-3 days after this date.\u00a0\nIf your order has already been processed or is due to be processed that day, you'll be unable to amend the next order date of this order.\u00a0\n\u00a0\nWhat if I can\u2019t select the date I need?\nIf you need to move your order date back by more than 18 days, speak to our Customer Care Team either via livechat from your account or by emailing help@joinvoy.com and they\u2019ll be happy to help. Just so you\u2019re aware, moving your order date back by more than 21 days could mean that we need to reduce your dose to ensure your treatment is still safe to take. In your message, please include:\n\nThe reason for changing your next order date\nThe date you'd like your next order to be placed\nThe date your last dose will be\u00a0\n\nWe're Here to Help\nIf you have any questions about adjusting your order date or need further assistance, our Customer Care Team is ready to support you and find the best solution for your needs\nRemember, we're committed to ensuring your weight loss journey with Voy is as smooth and tailored to your lifestyle as possible.",
+    "actual_answer": "To amend your next order date with Voy's telehealth weight loss service, please follow these steps:\n\n1. Log into your online account at [joinvoy.com/login](https://joinvoy.com/login).\n2. Click on \"Account\" in the left-hand menu.\n3. Select \"Manage Plans and orders.\"\n4. On this page, you will see your last order as 'current' order and your next order. Scroll down to 'Manage Next Order' where you will see the date of the order you're moving.\n5. Click \u2018Manage\u2019 and then select a new date that works best for you.\n\nPlease note that your payment and order will process on the new date you've selected. Due to the time-sensitive nature of prescription medications, there is a limit of 18 days to how far an order can be pushed back. If you cannot see this option on your account, or if you have any difficulties, you can contact Voy's Customer Care Team for assistance. In your communication, include the reason why you'd like to change your next order date and the new date you'd like your order to be placed.\n\nFor any changes related to your treatment or dose, it's important to discuss these with a member of Voy's medical team. This can be done by booking a consultation or messaging the Clinical Team through your account.\n\nRemember, if you're changing your shipping address, make sure to do this before your next order is placed to ensure smooth delivery.\n\nFor further assistance or specific inquiries, please refer to Voy's official documentation or contact their Customer Care Team directly.",
+    "response_time": 22.11761784553528
+  },
+  {
+    "question": "How do I unsubscribe from marketing communications?",
+    "category": "in_domain",
+    "expected_confidence": "high",
+    "actual_confidence": "high",
+    "confidence_match": true,
+    "expected_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20198976737428-How-do-I-unsubscribe-from-marketing-communications"
+    ],
+    "actual_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20198976737428-How-do-I-unsubscribe-from-marketing-communications",
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20198976737428-How-do-I-unsubscribe-from-marketing-communications",
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20168823234452-How-do-I-cancel-my-subscription"
+    ],
+    "urls_match": true,
+    "reference_answer": "We value your privacy and understand that you may want to adjust the communications you receive from us. Here's how you can unsubscribe from our marketing communications:\nHow to unsubscribe to marketing communications\n\n\nVia Email:\n\nLook for the \"unsubscribe\" link at the bottom of any marketing email you've received from us.\nClick on this link to be removed from our marketing mailing list.\n\n\n\nContact Us Directly:\n\nIf you prefer, you can email us at\u00a0help@joinvoy.com.\nOur team will assist you in unsubscribing from marketing communications.\n\n\n\nWhat Happens When You Unsubscribe\n\nYou'll be removed from our marketing mailing list.\nYou'll no longer receive promotional emails or offers from us.\n\nImportant Note\nUnsubscribing from marketing communications does not affect:\n\nTransactional emails related to your orders\nImportant updates about your account or treatment\n\n\u00a0\nRemember, even if you unsubscribe from marketing communications, we're always here to support your weight loss journey. You can reach out to us anytime for assistance with your treatment or account.",
+    "actual_answer": "To unsubscribe from marketing communications from Voy, you have two options:\n\n1. **Via Email:** Look for the \"unsubscribe\" link at the bottom of any marketing email you've received from Voy. Click on this link to be removed from the marketing mailing list.\n\n2. **Contact Us Directly:** You can also email Voy directly at help@joinvoy.com. The team will assist you in unsubscribing from marketing communications.\n\n**What Happens When You Unsubscribe:**\n- You will be removed from the marketing mailing list and will no longer receive promotional emails or offers from Voy.\n- It's important to note that unsubscribing from marketing communications does not affect transactional emails related to your orders or important updates about your account or treatment.\n\nEven after unsubscribing from marketing communications, Voy remains available to support your weight loss journey and you can reach out anytime for assistance with your treatment or account.\n\nFor more detailed information, you can visit Voy's official documentation or contact them directly.",
+    "response_time": 9.251269102096558
+  },
+  {
+    "question": "How do I sign up to Voy?",
+    "category": "in_domain",
+    "expected_confidence": "high",
+    "actual_confidence": "high",
+    "confidence_match": true,
+    "expected_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20198861856916-How-do-I-sign-up-to-Voy"
+    ],
+    "actual_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20198861856916-How-do-I-sign-up-to-Voy",
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20168038957844-Why-doesn-t-VOY-mention-prescription-medications-by-name",
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20198861856916-How-do-I-sign-up-to-Voy"
+    ],
+    "urls_match": true,
+    "reference_answer": "Welcome to Voy! We're here to support you on your weight loss journey to feeling a happier and healthier you. Here's a step-by-step guide on how to begin your journey\nStep 1: Eligibility Check\n\nVisit our homepage at\u00a0www.joinvoy.com\nClick on\u00a0\"Am I Eligible?\"\nComplete our eligibility questionnaire about your medical history and weight loss experience\n\nStep 2: Personalised Plan\nIf you're eligible we'll present your personalised weight loss plan and the treatment options available to you\nStep 3: Choose Your Plan\nOnce you've reviewed the treatment plans presented, select the one that you feel is right for you.\u00a0\nEach plan is set up as a subscription that will automatically renews in line with your treatment plan. This is typically every 28 or 42 days.\u00a0\nYou can cancel your subscription anytime from your\u00a0Account under 'Manage Plans'.\u00a0\nStep 4: Checkout\nIf you're happy with the plan, click 'checkout' at the bottom of the page and complete your payment details.\u00a0\nStep 5: Complete Your Tasks\nAfter placing your order you'll be taken to your home page. Here you'll see two tasks to complete:\n\n\n\nUpload a full-length photo of yourself (taken that day for the purpose of your consultation)\nUpload a photo of your ID\n\n\n\nOur Clinical Team will review your photos within 1 business day. If they have any questions or require new photos they'll send you a message to the messages section on your account.\u00a0\nIf you need to provide more information:\n\nRespond to the medical team using the text box provided in your messages.\nIf you need to share more photos, they'll create new tasks to complete or you can use the paper clip icon in your messages to upload additional photos if required\n\nWhat if I'm not eligible?\nIf we're unable to help:\n\nThis is to ensure we maintain high standards of safeguarding and healthcare compliance\nContact our Customer Care Team for more information about your specific circumstances\n\nNeed More Help?\n\nWatch our instructional video for a visual guide\nContact our Customer Care Team at the contact details provided below\n\nWe're here to support you every step of the way on your weight loss journey with Voy.\u00a0\n     ",
+    "actual_answer": "To sign up for Voy's telehealth weight loss service, follow these steps:\n\n1. **Eligibility Check**: First, visit Voy's homepage at www.joinvoy.com and click on the \"Am I Eligible?\" button. You will need to complete an eligibility questionnaire that asks about your medical history and weight loss experience. This step is crucial for the Clinical Team to understand your needs and determine if their treatment is suitable for you.\n\n2. **Personalised Plan**: If you are found eligible, Voy will present you with a personalized weight loss plan along with the treatment options available to you.\n\n3. **Choose Your Plan**: Review the treatment plans offered and select the one that best suits your needs. Each plan operates as a subscription, automatically renewing every 28 or 42 days, depending on your treatment plan. You have the option to cancel your subscription at any time through your account under 'Manage Plans'.\n\n4. **Checkout**: Once you are satisfied with your chosen plan, click 'checkout' at the bottom of the page and complete your payment details.\n\n5. **Complete Your Tasks**: After placing your order, you will be directed to your homepage, where you will see two tasks to complete.\n\nPlease note, it's important to provide accurate information during the eligibility check to ensure the treatment plan is appropriate for your situation. Always consult with a healthcare professional for personal advice and before starting any new treatment plan.\n\nFor more detailed information or to begin the sign-up process, please visit www.joinvoy.com.",
+    "response_time": 23.492550373077393
+  },
+  {
+    "question": "How do I update my account or subscription?",
+    "category": "in_domain",
+    "expected_confidence": "high",
+    "actual_confidence": "high",
+    "confidence_match": true,
+    "expected_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20198884011412-How-do-I-update-my-account-or-subscription"
+    ],
+    "actual_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20198884011412-How-do-I-update-my-account-or-subscription",
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/24090327063060-How-does-my-subscription-work",
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20168823234452-How-do-I-cancel-my-subscription"
+    ],
+    "urls_match": true,
+    "reference_answer": "We're working hard to make it as easy as possible for you to manage your subscription. However, given the time-sensitive nature of your administering cycle, there are some limitations. Here's how you can manage various aspects of your account and subscription:\nHow do I update my account details?\nWe aim to make it as easy as possible for you to keep your account up to date.\nYou can edit certain details, such as billing method, delivery address and general account preferences by:\n\nLogging into your account\nClicking Account in the left-hand menu\nSelecting Account Details\n\n\nHere, you can change your:\n\nPersonal Info (email, name, phone number)\nShipping Address\nBilling Address\n\nIf you're changing your shipping address, please make sure to do this before your next order is placed.\nHow can I amend my next order date?\nIf you're overstocked or going on a trip and need your delivery early, we've got you covered!\nTo amend your next order date:\n\nLog into your online account\nClick on Account in the left-hand menu settings\nSelect 'Manage Plans'\nChoose a date that works for you\n\nYour payment and order will then process on the new date you've selected. Please note that due to the time-sensitive administration of our prescription medications, there is a limit of 18 days to how far an order can be pushed back.\nIf you can't see this option on your account, you can contact our Customer Care Team. They will be able to adjust your next order date for you.\nIn your email, please include:\n\nThe reason why you'd like to change your next order date\nThe date that you'd like your next order to be placed\n\nHow can I change my treatment or dose?\nIf you wish to change your treatment or dose, this can be discussed with a member of our medical team. To speak with our medical team you can either:\n\nBook a consultation\nMessage our Clinical Team on your account by clicking on Support and then 'Messages'\n\n",
+    "actual_answer": "To update your account or subscription with Voy, you can follow these steps:\n\n1. **Update Account Details:**\n   - Log into your account at www.joinvoy.com/login using your login credentials.\n   - Click on \"Account\" in the left-hand menu.\n   - Select \"Account Details\" where you can change your personal info (email, name, phone number), shipping address, and billing address.\n\n2. **Manage Your Subscription:**\n   - To find out how regularly you will receive your medication, you can check your treatment plan from your Support page under Messages or view your plan under Account and then Manage Plans. Your subscription will automatically renew every 28 or 42 days depending on your treatment.\n\n3. **Cancel Your Subscription:**\n   - Log into your account at www.joinvoy.com/login.\n   - Navigate to \"Accounts\" in the left-hand menu and select \"Manage Plans\".\n   - View your subscriptions and select the subscription you wish to cancel.\n   - Follow the prompts to complete the cancellation process. You will receive an email to confirm your subscription has been cancelled.\n\nTo avoid unwanted charges or deliveries, it's important to cancel your subscription before your next order is processed.\n\nPlease note, the information provided here is based on Voy's official documentation and should be used for guidance purposes only. Always consult with a healthcare professional for medical advice or with Voy's customer service for specific questions about your account or subscription.",
+    "response_time": 13.370331764221191
+  },
+  {
+    "question": "How do I contact Voy?",
+    "category": "in_domain",
+    "expected_confidence": "high",
+    "actual_confidence": "high",
+    "confidence_match": true,
+    "expected_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20198390141844-How-do-I-contact-Voy"
+    ],
+    "actual_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20198390141844-How-do-I-contact-Voy",
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20198861856916-How-do-I-sign-up-to-Voy",
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20198861856916-How-do-I-sign-up-to-Voy"
+    ],
+    "urls_match": true,
+    "reference_answer": "We're here to support you at every step of your weight loss journey! At Voy, we have three dedicated teams to assist you: our Clinical Team, Coaches, and Customer Care Team. Here's how to reach the right team for your needs:\nContact Customer Care\nFor general enquiries, order issues, or account help:\n\nLive Chat: Available on the Support Page (Monday to Friday 09.00-17:00)\nEmail:\u00a0help@joinvoy.com\nTwitter/X: @joinvoy\nInstagram: @joinvoy\nPhone: 020 3912 9885 (Monday to Friday 09.00-17:00)\n\nContact the Medical Team\nFor medical questions or advice about your medication:\n\nLog into your account: Go to\u00a0www.joinvoy.com\u00a0and sign in\nClick on\u00a0'Support'\u00a0on the left-hand side of your account\nSelect 'Speak to a Medical Expert'\n\nChoose to either:\n\nBook a call\nSend a\u00a0message\n\n\n\nContact Your Coach\nFor motivation, support, and guidance on your weight loss journey:\n\nUse the\u00a0messages\u00a0feature on your support page\nCommunicate via WhatsApp (your coach will initiate this)\nBook a face-to-face appointment through the Support page\n\nIf you don't have a coach yet, select 'Choose a coach' on the Support page of your account.\nNot Sure Who to Contact?\nIf you're unsure which team to reach out to, start with our Customer Care Team. They'll ensure you're connected with the right person to address your needs.\nRemember, we're committed to supporting you throughout your weight loss journey. Don't hesitate to reach out \u2013 we're here to help!",
+    "actual_answer": "To contact Voy, you have several options depending on the nature of your inquiry:\n\n1. **Customer Care**: For general inquiries, order issues, or account help, you can reach out to the Customer Care Team through the following channels:\n   - **Live Chat**: Available on the Support Page from Monday to Friday, 09:00-17:00.\n   - **Email**: help@joinvoy.com\n   - **Social Media**: Twitter/X and Instagram at @joinvoy\n   - **Phone**: 020 3912 9885, available Monday to Friday, 09:00-17:00.\n\n2. **Medical Team**: If you have medical questions or need advice about your medication, you can contact the Medical Team by:\n   - Logging into your account at www.joinvoy.com, clicking on 'Support' on the left-hand side of your account, and selecting 'Speak to a Medical Expert'. From there, you can choose to either book a call or send a message.\n\n3. **Your Coach**: For motivation, support, and guidance on your weight loss journey, the documentation suggests contacting your coach directly through the platform.\n\nFor more detailed instructions or if you need further assistance, Voy also offers an instructional video on their platform and encourages reaching out to the Customer Care Team using the contact details provided.\n\nFor more information, visit www.joinvoy.com.\n\nPlease note, for any medical-related questions or advice, it's important to directly consult with healthcare professionals. The information provided here is based on Voy's official documentation and should not replace professional medical advice.",
+    "response_time": 22.286288738250732
+  },
+  {
+    "question": "Are there any medical conditions that might disqualify someone from participating?",
+    "category": "in_domain",
+    "expected_confidence": "high",
+    "actual_confidence": "high",
+    "confidence_match": true,
+    "expected_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20196076616852-Are-there-any-medical-conditions-that-might-disqualify-someone-from-participating"
+    ],
+    "actual_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20196076616852-Are-there-any-medical-conditions-that-might-disqualify-someone-from-participating",
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20196076616852-Are-there-any-medical-conditions-that-might-disqualify-someone-from-participating",
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20196076616852-Are-there-any-medical-conditions-that-might-disqualify-someone-from-participating"
+    ],
+    "urls_match": true,
+    "reference_answer": "At Voy, we prioritise your safety and well-being. While we aim to help as many people as possible on their weight loss journey, certain medical conditions may disqualify individuals from our treatments. Here's what you need to know:\nOur Eligibility Process\u00a0\nOnce you've signed up for Voy, our Clinical Team will review your medical questionnaire. This ensures that our treatments are safe for your for you.\u00a0\nMedical Conditions That May Disqualify Participation\nOur treatments are not suitable for people with:\n\nLiver, kidney, or heart failure\nPancreatitis\nMultiple endocrine neoplasia type 2\nCancer\nType 1 diabetes or diabetic retinopathy\nPersonal or family history of medullary thyroid cancer\nHistory of eating disorders (e.g., anorexia, bulimia)\nHistory of gallbladder problems\nHistory of Inflammatory bowel disease or gastroparesis\nAllergy or hypersensitivity to the active ingredient or any excipients in our medications\n\nCheck Your Eligibility\nTo find out if you're eligible for our treatments:\n\nVisit\u00a0www.joinvoy.com\nComplete our online eligibility questions\n\nWhy We Have These Restrictions\nThese guidelines ensure the safety and effectiveness of our treatments. They help us maintain high standards of care and comply with medical regulations.\u00a0\nWhat If I'm Not Eligible?\nIf you're not eligible for our treatments you may have other suitable weight loss options that are more appropriate for you. Speak with your GP or a healthcare professional for personalised advice.\u00a0\nQuestions or Concerns?\nIf you have any questions about eligibility or your specific medical situation contact our Medical Team through your Voy account un Support. They can provide more detailed information based on your personal circumstances.\u00a0\nRemember, your health and safety are our top priorities. We're here to guide you towards the most appropriate and effective weight loss solution for you.",
+    "actual_answer": "Yes, there are specific medical conditions that might disqualify someone from participating in Voy's weight loss treatments. According to Voy's official documentation, these conditions include:\n\n- Liver, kidney, or heart failure\n- Pancreatitis\n- Multiple endocrine neoplasia type 2\n- Cancer\n- Type 1 diabetes or diabetic retinopathy\n- Personal or family history of medullary thyroid cancer\n- History of eating disorders (e.g., anorexia, bulimia)\n- History of gallbladder problems\n- History of Inflammatory bowel disease or gastroparesis\n- Allergy or hypersensitivity to the active ingredient or any excipients in our medications\n\nVoy emphasizes the importance of safety and well-being, and these guidelines are in place to ensure the safety and effectiveness of their treatments. They also comply with medical regulations. If you have any of these conditions, Voy suggests speaking with your GP or a healthcare professional for personalized advice on suitable weight loss options.\n\nFor more detailed information or if you have specific questions about eligibility based on your medical situation, Voy encourages contacting their Medical Team through your Voy account for support.\n\nPlease note, this information is based on Voy's official documentation and is intended for informational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition.\n\nFor further details or to check your eligibility, you can visit www.joinvoy.com and complete the online eligibility questions.\n\nSource: Voy's official documentation (not a real website, provided for context in this scenario).",
+    "response_time": 23.473205089569092
+  },
+  {
+    "question": "Can I use a prescription from my own GP on your website?",
+    "category": "in_domain",
+    "expected_confidence": "high",
+    "actual_confidence": "high",
+    "confidence_match": true,
+    "expected_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20170440761748-Can-I-use-a-prescription-from-my-own-GP-on-your-website"
+    ],
+    "actual_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20170440761748-Can-I-use-a-prescription-from-my-own-GP-on-your-website",
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/23616757771796-Can-I-restart-my-susbcription-at-a-higher-dosage",
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20170440761748-Can-I-use-a-prescription-from-my-own-GP-on-your-website"
+    ],
+    "urls_match": true,
+    "reference_answer": "\n\n\n\n\n\nWe appreciate your trust in our services and understand that you might have a prescription from your own GP. Here's our policy on using external prescriptions:\nOur Prescription Policy\nWe only dispense medication based on prescriptions generated and authorised by our own prescribers.\nWhile we value the expertise of other healthcare providers, we cannot accept external prescriptions.\nWhy We Have This Policy\n\nConsistency: This ensures consistency in our treatment approach.\nSafety: It allows us to maintain our high safety standards.\nRegulatory Compliance: This policy helps us adhere to online pharmacy regulations.\nComprehensive Care: It enables us to provide a complete care package, including follow-ups and adjustments.\n\nNext steps\nIf you're interested in joining Voy, you can check if you are eligible by completing our medical questionnaire. Our medical team will then assess whether Voy is right for you.\u00a0\nIf you have a prescription from your GP:\n\nYou may want to discuss our services with them.\nThey might be able to provide insights into whether our treatments could be suitable for you.\n\nIf you're already taking GLP-1 medication, you might be able to continue on the dose you're currently on with Voy. Here's an FAQ you might find helpful: Can I start at a higher dose\n\u00a0\n\n\n\n\n\n",
+    "actual_answer": "No, you cannot use a prescription from your own GP on our website. According to Voy's official documentation, Voy only dispenses medication based on prescriptions generated and authorized by their own prescribers. They do not accept external prescriptions. This policy is in place to ensure consistency in treatment approaches, maintain high safety standards, comply with online pharmacy regulations, and provide a comprehensive care package that includes follow-ups and adjustments.\n\nIf you have a prescription from your GP and are interested in Voy's services, it's recommended to discuss Voy's services with your GP. They might provide insights into whether Voy's treatments could be suitable for you. Additionally, if you're already taking GLP-1 medication, you might be able to continue on the dose you're currently on with Voy, but this would require a new prescription from a Voy prescriber.\n\nFor further guidance or if you have any questions about starting on a higher dosage, you're encouraged to reach out to Voy's Medical Team through your account messages.\n\nPlease note, this information is based on Voy's official documentation and is provided for informational purposes only. Always consult with a healthcare professional for medical advice and treatment options.\n\nSource: Voy's official documentation (no URL provided).",
+    "response_time": 10.609741926193237
+  },
+  {
+    "question": "How do I log into my account?",
+    "category": "in_domain",
+    "expected_confidence": "high",
+    "actual_confidence": "high",
+    "confidence_match": true,
+    "expected_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20169957333268-How-do-I-log-into-my-account"
+    ],
+    "actual_urls": [
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20169957333268-How-do-I-log-into-my-account",
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/31894643942420-How-do-I-upload-photos",
+      "https://joinvoy.zendesk.com/hc/en-gb/articles/20169957333268-How-do-I-log-into-my-account"
+    ],
+    "urls_match": true,
+    "reference_answer": "We understand that login issues can be frustrating. Don't worry \u2013 we're here to help you get back into your account. If you're having trouble logging in, please try the following steps:\nTroubleshooting Steps\n1. Verify Your Credentials\nDouble-check that you're using the correct email address and password. Remember, passwords are case-sensitive\n2. Check for Typos\n\n\n\nEnsure there are no typos in your email address\nEven a small error can prevent successful login\n\n\n\n3. Clear Browser DataClear your browser's cookies and cache, this can resolve many common login issues\n4. Try a Different Device or Browser\nSometimes, device-specific issues can affect login, try logging in from a different device or browser\n5. Reset Your Password\nIf you're still unable to log in, try resetting your password using the following link: Reset Password\nIf you've not receievd your reset password email, check your spam folder, sometimes it can find itself in this folder.\nStill Having Trouble?\nIf you've tried these steps and are still unable to log in, we're here to help:\n\nEmail: Contact us at\u00a0help@joinvoy.com\nPhone: Call us at 020 3912 9885 (Monday to Friday, 9:00 AM - 5:00 PM)\n\nOur Customer Care team will be happy to assist you!\nPreventive Measures\nTo avoid future login issues:\n\nConsider using a password manager to securely store your login information\nMake sure your email address associated with your account\n\nWe're committed to ensuring you have smooth access to your Voy account so you can focus on your weight loss journey. Don't hesitate to reach out if you need any further assistance!",
+    "actual_answer": "To log into your account, please follow these troubleshooting steps as outlined in Voy's official documentation:\n\n1. **Verify Your Credentials**: Make sure you are using the correct email address and password. Remember, passwords are case-sensitive.\n\n2. **Check for Typos**: Double-check your email address for any typos, as even a small error can prevent a successful login.\n\n3. **Clear Browser Data**: Clearing your browser's cookies and cache can resolve many common login issues.\n\n4. **Try a Different Device or Browser**: Sometimes, device-specific issues can affect login. Try logging in from a different device or browser.\n\n5. **Reset Your Password**: If you're still unable to log in, you can reset your password using the following link: [Reset Password](#). If you haven't received your reset password email, check your spam folder.\n\nIf you've tried these steps and are still unable to log in, Voy's Customer Care team is here to help. You can contact them via email at help@joinvoy.com or by phone at 020 3912 9885 (Monday to Friday, 9:00 AM - 5:00 PM).\n\nFor more information or if you need further assistance, please refer to Voy's official documentation or contact their Customer Care team directly.",
+    "response_time": 10.811055183410645
+  },
+  {
+    "question": "What is the capital of France?",
+    "category": "out_of_domain",
+    "expected_confidence": "low",
+    "actual_confidence": "low",
+    "confidence_match": true,
+    "expected_urls": [],
+    "actual_urls": [],
+    "urls_match": true,
+    "reference_answer": "I couldn't find relevant information in Voy's documentation to answer your question accurately.",
+    "actual_answer": "I apologize, but I couldn't find relevant information in Voy's documentation to answer your question accurately. Please contact Voy's support team directly for more information.",
+    "response_time": 0.3162810802459717
+  },
+  {
+    "question": "How do I bake chocolate chip cookies?",
+    "category": "out_of_domain",
+    "expected_confidence": "low",
+    "actual_confidence": "low",
+    "confidence_match": true,
+    "expected_urls": [],
+    "actual_urls": [],
+    "urls_match": true,
+    "reference_answer": "I couldn't find relevant information in Voy's documentation to answer your question accurately.",
+    "actual_answer": "I apologize, but I couldn't find relevant information in Voy's documentation to answer your question accurately. Please contact Voy's support team directly for more information.",
+    "response_time": 0.3811299800872803
+  },
+  {
+    "question": "What is the meaning of life?",
+    "category": "out_of_domain",
+    "expected_confidence": "low",
+    "actual_confidence": "low",
+    "confidence_match": true,
+    "expected_urls": [],
+    "actual_urls": [],
+    "urls_match": true,
+    "reference_answer": "I couldn't find relevant information in Voy's documentation to answer your question accurately.",
+    "actual_answer": "I apologize, but I couldn't find relevant information in Voy's documentation to answer your question accurately. Please contact Voy's support team directly for more information.",
+    "response_time": 0.5824830532073975
+  },
+  {
+    "question": "Who won the World Series in 2022?",
+    "category": "out_of_domain",
+    "expected_confidence": "low",
+    "actual_confidence": "low",
+    "confidence_match": true,
+    "expected_urls": [],
+    "actual_urls": [],
+    "urls_match": true,
+    "reference_answer": "I couldn't find relevant information in Voy's documentation to answer your question accurately.",
+    "actual_answer": "I apologize, but I couldn't find relevant information in Voy's documentation to answer your question accurately. Please contact Voy's support team directly for more information.",
+    "response_time": 0.3751380443572998
+  },
+  {
+    "question": "How do I change a flat tire?",
+    "category": "out_of_domain",
+    "expected_confidence": "low",
+    "actual_confidence": "low",
+    "confidence_match": true,
+    "expected_urls": [],
+    "actual_urls": [],
+    "urls_match": true,
+    "reference_answer": "I couldn't find relevant information in Voy's documentation to answer your question accurately.",
+    "actual_answer": "I apologize, but I couldn't find relevant information in Voy's documentation to answer your question accurately. Please contact Voy's support team directly for more information.",
+    "response_time": 0.24766898155212402
+  },
+  {
+    "question": "What are the best vacation spots in Europe?",
+    "category": "out_of_domain",
+    "expected_confidence": "low",
+    "actual_confidence": "low",
+    "confidence_match": true,
+    "expected_urls": [],
+    "actual_urls": [],
+    "urls_match": true,
+    "reference_answer": "I couldn't find relevant information in Voy's documentation to answer your question accurately.",
+    "actual_answer": "I apologize, but I couldn't find relevant information in Voy's documentation to answer your question accurately. Please contact Voy's support team directly for more information.",
+    "response_time": 0.3159518241882324
+  },
+  {
+    "question": "How do I learn to play the piano?",
+    "category": "out_of_domain",
+    "expected_confidence": "low",
+    "actual_confidence": "low",
+    "confidence_match": true,
+    "expected_urls": [],
+    "actual_urls": [],
+    "urls_match": true,
+    "reference_answer": "I couldn't find relevant information in Voy's documentation to answer your question accurately.",
+    "actual_answer": "I apologize, but I couldn't find relevant information in Voy's documentation to answer your question accurately. Please contact Voy's support team directly for more information.",
+    "response_time": 0.2704629898071289
+  },
+  {
+    "question": "What's the plot of The Great Gatsby?",
+    "category": "out_of_domain",
+    "expected_confidence": "low",
+    "actual_confidence": "low",
+    "confidence_match": true,
+    "expected_urls": [],
+    "actual_urls": [],
+    "urls_match": true,
+    "reference_answer": "I couldn't find relevant information in Voy's documentation to answer your question accurately.",
+    "actual_answer": "I apologize, but I couldn't find relevant information in Voy's documentation to answer your question accurately. Please contact Voy's support team directly for more information.",
+    "response_time": 0.35506725311279297
+  },
+  {
+    "question": "How do I grow tomatoes?",
+    "category": "out_of_domain",
+    "expected_confidence": "low",
+    "actual_confidence": "low",
+    "confidence_match": true,
+    "expected_urls": [],
+    "actual_urls": [],
+    "urls_match": true,
+    "reference_answer": "I couldn't find relevant information in Voy's documentation to answer your question accurately.",
+    "actual_answer": "I apologize, but I couldn't find relevant information in Voy's documentation to answer your question accurately. Please contact Voy's support team directly for more information.",
+    "response_time": 0.3793649673461914
+  },
+  {
+    "question": "What's the history of the Roman Empire?",
+    "category": "out_of_domain",
+    "expected_confidence": "low",
+    "actual_confidence": "low",
+    "confidence_match": true,
+    "expected_urls": [],
+    "actual_urls": [],
+    "urls_match": true,
+    "reference_answer": "I couldn't find relevant information in Voy's documentation to answer your question accurately.",
+    "actual_answer": "I apologize, but I couldn't find relevant information in Voy's documentation to answer your question accurately. Please contact Voy's support team directly for more information.",
+    "response_time": 0.4136009216308594
+  },
+  {
+    "question": "",
+    "category": "edge_case",
+    "expected_confidence": "low",
+    "actual_confidence": "low",
+    "confidence_match": true,
+    "expected_urls": [],
+    "actual_urls": [],
+    "urls_match": true,
+    "reference_answer": "I apologize, but you haven't provided a question.",
+    "actual_answer": "I apologize, but you haven't provided a question. Please ask a specific question about Voy's services.",
+    "response_time": 1.0967254638671875e-05
+  },
+  {
+    "question": " ",
+    "category": "edge_case",
+    "expected_confidence": "low",
+    "actual_confidence": "low",
+    "confidence_match": true,
+    "expected_urls": [],
+    "actual_urls": [],
+    "urls_match": true,
+    "reference_answer": "I apologize, but you haven't provided a question.",
+    "actual_answer": "I apologize, but you haven't provided a question. Please ask a specific question about Voy's services.",
+    "response_time": 0.0
+  },
+  {
+    "question": "?",
+    "category": "edge_case",
+    "expected_confidence": "low",
+    "actual_confidence": "low",
+    "confidence_match": true,
+    "expected_urls": [],
+    "actual_urls": [],
+    "urls_match": true,
+    "reference_answer": "I apologize, but you haven't provided a question.",
+    "actual_answer": "I apologize, but I couldn't find relevant information in Voy's documentation to answer your question accurately. Please contact Voy's support team directly for more information.",
+    "response_time": 0.4079313278198242
+  },
+  {
+    "question": "asdfghjkl",
+    "category": "edge_case",
+    "expected_confidence": "low",
+    "actual_confidence": "low",
+    "confidence_match": true,
+    "expected_urls": [],
+    "actual_urls": [],
+    "urls_match": true,
+    "reference_answer": "I apologize, but you haven't provided a question.",
+    "actual_answer": "I apologize, but I couldn't find relevant information in Voy's documentation to answer your question accurately. Please contact Voy's support team directly for more information.",
+    "response_time": 0.36139416694641113
+  },
+  {
+    "question": "...",
+    "category": "edge_case",
+    "expected_confidence": "low",
+    "actual_confidence": "low",
+    "confidence_match": true,
+    "expected_urls": [],
+    "actual_urls": [],
+    "urls_match": true,
+    "reference_answer": "I apologize, but you haven't provided a question.",
+    "actual_answer": "I apologize, but I couldn't find relevant information in Voy's documentation to answer your question accurately. Please contact Voy's support team directly for more information.",
+    "response_time": 0.2831408977508545
+  },
+  {
+    "question": "123456789",
+    "category": "edge_case",
+    "expected_confidence": "low",
+    "actual_confidence": "low",
+    "confidence_match": true,
+    "expected_urls": [],
+    "actual_urls": [],
+    "urls_match": true,
+    "reference_answer": "I apologize, but you haven't provided a question.",
+    "actual_answer": "I apologize, but I couldn't find relevant information in Voy's documentation to answer your question accurately. Please contact Voy's support team directly for more information.",
+    "response_time": 0.25676989555358887
+  }
+]
