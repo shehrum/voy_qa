@@ -10,13 +10,36 @@
 
 This project implements a Q&A system for Voy's telehealth services using LLMs and document retrieval. The system leverages retrieval-augmented generation (RAG) to provide accurate, relevant, and safe answers to user questions about Voy's telehealth weight loss services.
 
+## 📊 Project Overview
+
+### Core Approach
+The solution employs a Retrieval-Augmented Generation (RAG) architecture with these key components:
+
+1. **Data Acquisition** - Scrapes information from Voy's official knowledge base
+2. **Document Processing** - Chunks and indexes content for efficient retrieval  
+3. **Semantic Retrieval** - Finds contextually relevant documents for each query
+4. **LLM Response Generation** - Creates coherent, accurate answers using retrieved context
+5. **Safety Guardrails** - Implements confidence scoring and medical disclaimers
+
+### Technical Stack
+- **Data Source**: Zendesk Knowledge Base API
+- **Vector Database**: ChromaDB
+- **Embedding Model**: OpenAI Embeddings
+- **LLM**: GPT-4 Turbo
+- **Frontend**: Gradio web interface
+- **Evaluation**: Automated testing pipeline with quantitative metrics
+
 ## 📋 Table of Contents
 
+- [Project Overview](#-project-overview)
 - [Project Structure](#-project-structure)
+- [Code Organization](#-code-organization)
 - [Setup](#-setup)
 - [Usage](#-usage)
+- [Scraper Implementation](#-scraper-implementation)
 - [Architecture & Design Choices](#-architecture--design-choices)
 - [Features](#-features)
+- [User Interface](#-user-interface)
 - [Safety Measures](#-safety-measures)
 - [Evaluation System](#-evaluation-system)
 - [Sample Test Questions](#-sample-test-questions)
@@ -37,7 +60,6 @@ voy_qa/
 └── evaluation/      # Stores evaluation results and reports
 └── requirements.txt
 ```
-
 ## 🚀 Setup
 
 1. **Install dependencies:**
@@ -66,6 +88,81 @@ python src/app.py
 **Run tests:**
 ```bash
 pytest tests/
+```
+
+
+## 🧩 Code Organization
+
+The codebase follows a modular design with clear separation of concerns:
+
+### 🔄 Core Components
+
+1. **`scraper.py`**: Implements the `ZendeskAPIScraper` class that:
+   - Connects to Zendesk Help Center API
+   - Retrieves and processes article content
+   - Cleans and structures data for storage
+   - Saves formatted data to JSON
+
+2. **`qa.py`**: Implements the `VoyQASystem` class that:
+   - Loads and indexes document data
+   - Manages vector database operations  
+   - Retrieves context based on query relevance
+   - Generates responses using OpenAI's LLM
+   - Assesses confidence levels
+
+3. **`app.py`**: Implements the Gradio web interface that:
+   - Creates a user-friendly frontend
+   - Formats responses with sources and confidence
+   - Includes medical disclaimers
+   - Provides pre-populated example questions
+   - Handles error cases gracefully
+
+4. **`evaluation.py`**: Implements evaluation tools that:
+   - Create test datasets with expected results
+   - Run evaluations on system performance
+   - Calculate metrics on accuracy and relevance
+   - Generate visual and textual reports
+
+### 🔁 Data Flow
+
+The system's data flow follows this sequence:
+1. Scraper extracts data → JSON storage
+2. QA system loads JSON → Vector database
+3. User query → Context retrieval → LLM response generation
+4. Response formatting → UI presentation
+
+### 📏 Design Principles
+
+The implementation adheres to:
+- **Modularity**: Components with single responsibilities
+- **Extensibility**: Easy integration of new data sources or models
+- **Safety**: Multiple layers of confidence checking and disclaimers
+- **Transparency**: Clear citation of sources in all responses
+
+## 📚 Scraper Implementation
+
+The VoyQA system uses a Zendesk API scraper to collect FAQ data from Voy's help center. 
+
+### 🔄 Scraping Process
+
+The scraper follows these steps:
+
+1. **Connect to Zendesk API** - Accesses Voy's help center via public API endpoints
+2. **Fetch Article Index** - Retrieves metadata for all published articles with pagination
+3. **Process Each Article** - Fetches full content for each article
+4. **Clean Data** - Removes HTML tags and extracts key information (title, content, URL)
+5. **Structure Output** - Formats data as JSON with consistent structure
+6. **Save Results** - Stores processed data in `data/faq_data.json`
+
+### 🔌 Integration with QA System
+
+1. Scraper runs independently to collect fresh data
+2. QA system loads the JSON during initialization
+3. Documents are chunked, embedded, and indexed for retrieval
+
+Run the scraper with:
+```bash
+python src/scraper.py
 ```
 
 ## 🏗️ Architecture & Design Choices
@@ -126,6 +223,24 @@ The system was designed with several key principles in mind:
 - 🤖 LLM-powered question answering with OpenAI
 - 🖥️ Gradio web interface
 - 📈 Evaluation metrics and safety measures
+
+## 🖥️ User Interface
+
+The system features a clean, user-friendly Gradio web interface that:
+
+1. **Simple Question Input** - Text area for entering questions about Voy's services
+2. **Formatted Responses** - Clearly structured answers with source citations 
+3. **Confidence Indicators** - Visual indicators for answer reliability
+4. **Medical Disclaimers** - Clear notices for medical information
+5. **Example Questions** - Pre-populated examples to demonstrate capabilities
+
+The interface is designed to be:
+- **Accessible** - Clean layout with proper contrast and readability
+- **Informative** - Provides metadata about response sources and confidence
+- **Cautious** - Clearly labels low-confidence responses with warning indicators
+- **Educational** - Includes example questions to guide users
+
+![Gradio Interface Screenshot](path-to-screenshot.png) <!-- Optional: Add a screenshot if available -->
 
 ## 🛡️ Safety Measures
 
