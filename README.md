@@ -35,19 +35,15 @@ voy_qa/
 ├── evaluate.py      # Evaluation script
 ├── data/            # Stores scraped FAQ data and embeddings
 └── evaluation/      # Stores evaluation results and reports
+└── requirements.txt
 ```
 
 ## 🚀 Setup
 
-1. **Create a virtual environment:**
+1. **Install dependencies:**
 ```bash
-conda create -n voy_qa python=3.11.11
-conda activate voy_qa
-```
-
-2. **Install dependencies:**
-```bash
-pip install -r requirements.txt
+conda create --name myenv --file requirements.txt
+conda activate myenv
 ```
 
 3. **Create a `.env` file with your OpenAI API key:**
