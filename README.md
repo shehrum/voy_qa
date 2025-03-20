@@ -240,7 +240,7 @@ The interface is designed to be:
 - **Cautious** - Clearly labels low-confidence responses with warning indicators
 - **Educational** - Includes example questions to guide users
 
-![Gradio Interface Screenshot](path-to-screenshot.png) <!-- Optional: Add a screenshot if available -->
+![Gradio Interface Screenshot](app_screenshot.png) <!-- Optional: Add a screenshot if available -->
 
 ## 🛡️ Safety Measures
 
